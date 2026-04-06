@@ -1,4 +1,4 @@
-import { GitHubRepo, usePinnedRepos } from "@/hooks/useGitHubData";
+import { usePinnedRepos } from "@/hooks/useGitHubData";
 import RepoCard from "@/components/RepoCard";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Pin } from "lucide-react";
