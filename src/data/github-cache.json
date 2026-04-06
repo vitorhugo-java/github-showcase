@@ -103,14 +103,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-04-06T12:27:30Z",
-      "pushed_at": "2026-04-06T12:27:23Z",
+      "updated_at": "2026-04-06T12:27:42Z",
+      "pushed_at": "2026-04-06T14:03:20Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": null,
-      "size": 584,
+      "size": 370,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2197,6 +2197,32 @@
   ],
   "events": [
     {
+      "id": "10243980686",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1189545274,
+        "name": "vitorhugo-java/portifolio",
+        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
+      },
+      "payload": {
+        "repository_id": 1189545274,
+        "push_id": 32537143363,
+        "ref": "refs/heads/prod",
+        "head": "0585920d1ba8cac4c4a4ad65fc9c5e88ecf9e58c",
+        "before": "824327ca08591f635a4b5c684994c75adae696c8"
+      },
+      "public": true,
+      "created_at": "2026-04-06T14:03:22Z"
+    },
+    {
       "id": "10240834361",
       "type": "PushEvent",
       "actor": {
@@ -2567,114 +2593,6 @@
       },
       "public": true,
       "created_at": "2026-04-06T11:48:21Z"
-    },
-    {
-      "id": "8119625819",
-      "type": "PullRequestReviewCommentEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "action": "created",
-        "comment": {
-          "url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/comments/3039270611",
-          "pull_request_review_id": 4061777812,
-          "id": 3039270611,
-          "node_id": "PRRC_kwDORucFOs61J5bT",
-          "diff_hunk": "@@ -23,22 +23,30 @@ async function fetchAllRepos(): Promise<any[]> {\n \n async function main() {\n   const repos = await fetchAllRepos();\n+  const today = new Date().toISOString().split(\"T\")[0];\n \n-  // Collect homepage URLs\n-  const homepages: string[] = repos\n+  // Collect homepage URLs with their last pushed date\n+  const homepageEntries: { url: string; lastmod: string }[] = repos\n     .filter((r: any) => r.homepage && r.homepage.trim() !== \"\")\n-    .map((r: any) => r.homepage.trim());\n+    .map((r: any) => ({\n+      url: r.homepage.trim(),",
-          "path": "scripts/generate-sitemap.ts",
-          "commit_id": "0b55498b035cc4754691f92026caaa5c5be8a6d4",
-          "original_commit_id": "bf3ea70d076d337defd6ec1f3bf326c6c777a2b9",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "body": "@copilot apply changes based on [this feedback](https://github.com/vitorhugo-java/portifolio/pull/9#discussion_r3039260158)",
-          "created_at": "2026-04-06T11:48:19Z",
-          "updated_at": "2026-04-06T11:48:19Z",
-          "html_url": "https://github.com/vitorhugo-java/portifolio/pull/9#discussion_r3039270611",
-          "pull_request_url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/9",
-          "_links": {
-            "self": {
-              "href": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/comments/3039270611"
-            },
-            "html": {
-              "href": "https://github.com/vitorhugo-java/portifolio/pull/9#discussion_r3039270611"
-            },
-            "pull_request": {
-              "href": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/9"
-            }
-          },
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/comments/3039270611/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "in_reply_to_id": 3039260158,
-          "original_position": 21,
-          "position": 40,
-          "subject_type": "line"
-        },
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/9",
-          "id": 3490994228,
-          "number": 9,
-          "head": {
-            "ref": "copilot/fix-403-error",
-            "sha": "0b55498b035cc4754691f92026caaa5c5be8a6d4",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "248e83012467e7e41c4e50b1278df0e5e24082f5",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-04-06T11:48:19Z"
     }
   ],
   "contributions": [
@@ -4435,7 +4353,7 @@
     },
     {
       "date": "2026-03-24",
-      "count": 54,
+      "count": 53,
       "level": 4
     },
     {
@@ -4500,9 +4418,9 @@
     },
     {
       "date": "2026-04-06",
-      "count": 23,
+      "count": 24,
       "level": 4
     }
   ],
-  "generatedAt": "2026-04-06T12:27:32.874Z"
+  "generatedAt": "2026-04-06T14:36:30.567Z"
 }
