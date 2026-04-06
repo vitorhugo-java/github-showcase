@@ -68,7 +68,33 @@ async function fetchGitHub<T>(path: string): Promise<T> {
   }
   const res = await fetch(`https://api.github.com${path}`, { headers });
   if (!res.ok) {
-    throw new Error(`GitHub API error ${res.status} ${res.statusText} for ${path}`);
+    const responseText = (await res.text()).trim();
+    if (res.status === 403 || res.status === 429) {
+      const rateLimitRemaining = res.headers.get("x-ratelimit-remaining");
+      const rateLimitReset = res.headers.get("x-ratelimit-reset");
+      const retryAfter = res.headers.get("retry-after");
+      const details = [
+        rateLimitRemaining !== null
+          ? `x-ratelimit-remaining=${rateLimitRemaining}`
+          : null,
+        rateLimitReset !== null ? `x-ratelimit-reset=${rateLimitReset}` : null,
+        retryAfter !== null ? `retry-after=${retryAfter}` : null,
+      ]
+        .filter((value): value is string => value !== null)
+        .join(", ");
+
+      throw new Error(
+        `GitHub API rate limit error ${res.status} ${res.statusText} for ${path}${
+          details ? ` (${details})` : ""
+        }${responseText ? `: ${responseText}` : ""}`
+      );
+    }
+
+    throw new Error(
+      `GitHub API error ${res.status} ${res.statusText} for ${path}${
+        responseText ? `: ${responseText}` : ""
+      }`
+    );
   }
   return res.json();
 }
