@@ -36,6 +36,126 @@
   },
   "repos": [
     {
+      "id": 1200019618,
+      "node_id": "R_kgDOR4bYog",
+      "name": "angular-animeseason-jikan",
+      "full_name": "vitorhugo-java/angular-animeseason-jikan",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/angular-animeseason-jikan",
+      "description": "A fast, responsive seasonal anime tracker built with Angular and powered by the Jikan API (MyAnimeList). Features an optimized, clean UI for browsing current and upcoming anime releases.",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan/deployments",
+      "created_at": "2026-04-03T00:31:35Z",
+      "updated_at": "2026-04-11T22:25:49Z",
+      "pushed_at": "2026-04-11T22:06:06Z",
+      "git_url": "git://github.com/vitorhugo-java/angular-animeseason-jikan.git",
+      "ssh_url": "git@github.com:vitorhugo-java/angular-animeseason-jikan.git",
+      "clone_url": "https://github.com/vitorhugo-java/angular-animeseason-jikan.git",
+      "svn_url": "https://github.com/vitorhugo-java/angular-animeseason-jikan",
+      "homepage": "http://animeseason.hugojava.dev/",
+      "size": 217,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": false,
+      "has_projects": false,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": false,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "angular",
+        "anime-tracker",
+        "frontend",
+        "github-pages",
+        "jikan-api",
+        "myanimelist",
+        "seasonal-anime",
+        "spa",
+        "typescript"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1189545274,
       "node_id": "R_kgDORucFOg",
       "name": "portifolio",
@@ -104,13 +224,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-04-06T17:20:00Z",
-      "pushed_at": "2026-04-10T01:34:33Z",
+      "pushed_at": "2026-04-11T01:33:47Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 403,
+      "size": 404,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -137,116 +257,6 @@
       "open_issues": 0,
       "watchers": 0,
       "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1200019618,
-      "node_id": "R_kgDOR4bYog",
-      "name": "angular-apirest-anime-anilist",
-      "full_name": "vitorhugo-java/angular-apirest-anime-anilist",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/angular-apirest-anime-anilist",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist/deployments",
-      "created_at": "2026-04-03T00:31:35Z",
-      "updated_at": "2026-04-09T15:45:04Z",
-      "pushed_at": "2026-04-09T15:42:29Z",
-      "git_url": "git://github.com/vitorhugo-java/angular-apirest-anime-anilist.git",
-      "ssh_url": "git@github.com:vitorhugo-java/angular-apirest-anime-anilist.git",
-      "clone_url": "https://github.com/vitorhugo-java/angular-apirest-anime-anilist.git",
-      "svn_url": "https://github.com/vitorhugo-java/angular-apirest-anime-anilist",
-      "homepage": null,
-      "size": 189,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "master",
       "permissions": {
         "admin": false,
         "maintain": false,
@@ -2200,6 +2210,162 @@
   ],
   "events": [
     {
+      "id": "10468474968",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32760734943,
+        "ref": "refs/heads/master",
+        "head": "c94f17e4efc9d3d7d4131e9727b540ed23d3ce53",
+        "before": "302838b35bddb7b33816bdc427a6338f6fc2acb1"
+      },
+      "public": true,
+      "created_at": "2026-04-11T22:06:07Z"
+    },
+    {
+      "id": "10468170513",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32760428905,
+        "ref": "refs/heads/master",
+        "head": "8b4923eded54f92f8bc185f5513e765829c7c02c",
+        "before": "663660db2db6752a2d672d448092f5674e9311f4"
+      },
+      "public": true,
+      "created_at": "2026-04-11T21:48:43Z"
+    },
+    {
+      "id": "10468024264",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32760283806,
+        "ref": "refs/heads/master",
+        "head": "663660db2db6752a2d672d448092f5674e9311f4",
+        "before": "1ebeb879b3d07d50af9cd530a6b3d485b69b977e"
+      },
+      "public": true,
+      "created_at": "2026-04-11T21:39:52Z"
+    },
+    {
+      "id": "10467679355",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32759941054,
+        "ref": "refs/heads/master",
+        "head": "1ebeb879b3d07d50af9cd530a6b3d485b69b977e",
+        "before": "3ed38708cab5deb9d4e8f2a2474c47a8981a99a6"
+      },
+      "public": true,
+      "created_at": "2026-04-11T21:19:38Z"
+    },
+    {
+      "id": "10467577182",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32759839844,
+        "ref": "refs/heads/master",
+        "head": "3ed38708cab5deb9d4e8f2a2474c47a8981a99a6",
+        "before": "44e301123ccf92f87dda7134d4d04a546691e5bc"
+      },
+      "public": true,
+      "created_at": "2026-04-11T21:13:32Z"
+    },
+    {
+      "id": "10463933463",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1200019618,
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
+      },
+      "payload": {
+        "repository_id": 1200019618,
+        "push_id": 32756214164,
+        "ref": "refs/heads/master",
+        "head": "44e301123ccf92f87dda7134d4d04a546691e5bc",
+        "before": "87d1e990ed73040ac7cde322f0b47c7139cc960c"
+      },
+      "public": true,
+      "created_at": "2026-04-11T17:59:09Z"
+    },
+    {
       "id": "10385650675",
       "type": "DeleteEvent",
       "actor": {
@@ -2212,8 +2378,8 @@
       },
       "repo": {
         "id": 1200019618,
-        "name": "vitorhugo-java/angular-apirest-anime-anilist",
-        "url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist"
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
       },
       "payload": {
         "ref": "dependabot/npm_and_yarn/npm_and_yarn-84176cb2e3",
@@ -2237,8 +2403,8 @@
       },
       "repo": {
         "id": 1200019618,
-        "name": "vitorhugo-java/angular-apirest-anime-anilist",
-        "url": "https://api.github.com/repos/vitorhugo-java/angular-apirest-anime-anilist"
+        "name": "vitorhugo-java/angular-animeseason-jikan",
+        "url": "https://api.github.com/repos/vitorhugo-java/angular-animeseason-jikan"
       },
       "payload": {
         "repository_id": 1200019618,
@@ -2297,190 +2463,9 @@
       },
       "public": true,
       "created_at": "2026-04-07T03:00:21Z"
-    },
-    {
-      "id": "10265711706",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "repository_id": 1189545274,
-        "push_id": 32558781508,
-        "ref": "refs/heads/prod",
-        "head": "74704cacb68d8ca46fe1c1148435c517aa083b8b",
-        "before": "3735986e91b3bdb9c942dca4c724e703bee2a6eb"
-      },
-      "public": true,
-      "created_at": "2026-04-07T02:12:49Z"
-    },
-    {
-      "id": "10265705567",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "repository_id": 1189545274,
-        "push_id": 32558775508,
-        "ref": "refs/heads/prod",
-        "head": "3735986e91b3bdb9c942dca4c724e703bee2a6eb",
-        "before": "8489ab9b815adc9ddcdbf6c3c2e43ca82fe2de11"
-      },
-      "public": true,
-      "created_at": "2026-04-07T02:12:34Z"
-    },
-    {
-      "id": "10252233439",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1203061543,
-        "name": "vitorhugo-java/py-kill-anydesk-2-webhook",
-        "url": "https://api.github.com/repos/vitorhugo-java/py-kill-anydesk-2-webhook"
-      },
-      "payload": {
-        "ref": "copilot/poll-webhook-for-commands",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/poll-webhook-for-commands",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-04-06T18:09:56Z"
-    },
-    {
-      "id": "10252232890",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1203061543,
-        "name": "vitorhugo-java/py-kill-anydesk-2-webhook",
-        "url": "https://api.github.com/repos/vitorhugo-java/py-kill-anydesk-2-webhook"
-      },
-      "payload": {
-        "repository_id": 1203061543,
-        "push_id": 32545397918,
-        "ref": "refs/heads/main",
-        "head": "699c7ef1cefec0cfda7b15972afb59d0536c2cae",
-        "before": "07e7df3ca4e860d2b4aa229a7801444bd3d7a8fa"
-      },
-      "public": true,
-      "created_at": "2026-04-06T18:09:55Z"
-    },
-    {
-      "id": "10250624923",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1203061543,
-        "name": "vitorhugo-java/py-kill-anydesk-2-webhook",
-        "url": "https://api.github.com/repos/vitorhugo-java/py-kill-anydesk-2-webhook"
-      },
-      "payload": {
-        "ref": "main",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/main",
-        "master_branch": "main",
-        "description": "A Python script that continuously polls a webhook URL and terminates AnyDesk when the webhook returns",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-04-06T17:23:22Z"
-    },
-    {
-      "id": "8128880832",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "action": "merged",
-        "number": 16,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/16",
-          "id": 3494119119,
-          "number": 16,
-          "head": {
-            "ref": "main",
-            "sha": "78e899f88a73a5d8721029e4b63875a3c86e0c40",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          },
-          "base": {
-            "ref": "prod",
-            "sha": "6df5ff7f96e7ca9c97f884b46d151228fa2d26a3",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-04-06T17:18:54Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-04-12",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-04-13",
       "count": 0,
@@ -4208,7 +4193,7 @@
     },
     {
       "date": "2026-03-24",
-      "count": 32,
+      "count": 26,
       "level": 4
     },
     {
@@ -4298,9 +4283,14 @@
     },
     {
       "date": "2026-04-11",
+      "count": 6,
+      "level": 3
+    },
+    {
+      "date": "2026-04-12",
       "count": 0,
       "level": 0
     }
   ],
-  "generatedAt": "2026-04-11T01:33:46.997Z"
+  "generatedAt": "2026-04-12T01:33:50.694Z"
 }
