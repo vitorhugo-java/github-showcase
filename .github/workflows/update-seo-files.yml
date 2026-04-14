@@ -13,10 +13,10 @@ jobs:
   update-seo:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout prod branch
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: prod
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
@@ -28,7 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push to main if files changed
+      - name: Commit and push to prod if files changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -37,10 +37,10 @@ jobs:
             echo "No changes to SEO files, skipping commit."
           else
             git commit -m "chore: update robots.txt and sitemap.xml"
-            git push origin main
+            git push origin prod
           fi
 
       - name: Trigger deployment workflow
-        run: gh workflow run deploy.yml --ref main
+        run: gh workflow run deploy.yml --ref prod
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
