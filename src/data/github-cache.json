@@ -21,18 +21,18 @@
     "site_admin": false,
     "name": "Vitor Hugo",
     "company": "JC Sistemas",
-    "blog": "",
-    "location": null,
+    "blog": "https://hugojava.dev/",
+    "location": "Bauru, São Paulo, Brasil",
     "email": "hugo-mcferreira7@outlook.com",
     "hireable": true,
-    "bio": "Desenvolvedor Java | Spring Framework \u2022 RESTful \u2022 GraphQL \u2022 React \u2022 Flutter \u2022 MySQL \u2022 Docker \u2022 MongoDB | Construindo Aplica\u00e7\u00f5es Web Escal\u00e1veis",
+    "bio": "Desenvolvedor Java | Spring Framework • RESTful • GraphQL • React • Flutter • MySQL • Docker • MongoDB | Construindo Aplicações Web Escaláveis",
     "twitter_username": null,
     "public_repos": 34,
     "public_gists": 0,
     "followers": 14,
     "following": 21,
     "created_at": "2020-05-22T15:23:20Z",
-    "updated_at": "2026-04-13T17:00:35Z"
+    "updated_at": "2026-04-14T01:45:04Z"
   },
   "repos": [
     {
@@ -103,14 +103,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-04-13T02:58:29Z",
-      "pushed_at": "2026-04-13T02:58:25Z",
+      "updated_at": "2026-04-14T19:29:39Z",
+      "pushed_at": "2026-04-14T19:48:14Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 410,
+      "size": 437,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -772,7 +772,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/vitorhugo-java/java-faces-quick-start",
-      "description": "A production-ready Jakarta EE 10 kickstarter for building Java Faces applications. Ships with a complete login system out-of-the-box \u2014 registration, e-mail verification, password reset \u2014 so you can focus on building your features instead of your auth plumbing.",
+      "description": "A production-ready Jakarta EE 10 kickstarter for building Java Faces applications. Ships with a complete login system out-of-the-box — registration, e-mail verification, password reset — so you can focus on building your features instead of your auth plumbing.",
       "fork": false,
       "url": "https://api.github.com/repos/vitorhugo-java/java-faces-quick-start",
       "forks_url": "https://api.github.com/repos/vitorhugo-java/java-faces-quick-start/forks",
@@ -1004,7 +1004,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/vitorhugo-java/herojorney",
-      "description": "Desafio: desenvolver uma aplica\u00e7\u00e3o web que abrace a tem\u00e1tica de her\u00f3is e, ao mesmo tempo,  seja a plataforma perfeita para voc\u00ea demonstrar todo o seu talento em desenvolvimento front- end e criatividade.",
+      "description": "Desafio: desenvolver uma aplicação web que abrace a temática de heróis e, ao mesmo tempo,  seja a plataforma perfeita para você demonstrar todo o seu talento em desenvolvimento front- end e criatividade.",
       "fork": false,
       "url": "https://api.github.com/repos/vitorhugo-java/herojorney",
       "forks_url": "https://api.github.com/repos/vitorhugo-java/herojorney/forks",
@@ -1662,6 +1662,242 @@
         "triage": false,
         "pull": false
       }
+    },
+    {
+      "id": 1149799585,
+      "node_id": "R_kgDORIiMoQ",
+      "name": "PdfFieldsSINANUtils",
+      "full_name": "vitorhugo-java/PdfFieldsSINANUtils",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/PdfFieldsSINANUtils",
+      "description": "Um helper para contruir relatórios SINAN (Sistema de Informação de Agravos de Notificação)",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/PdfFieldsSINANUtils/deployments",
+      "created_at": "2026-02-04T14:36:48Z",
+      "updated_at": "2026-02-05T00:54:11Z",
+      "pushed_at": "2026-02-05T00:53:34Z",
+      "git_url": "git://github.com/vitorhugo-java/PdfFieldsSINANUtils.git",
+      "ssh_url": "git@github.com:vitorhugo-java/PdfFieldsSINANUtils.git",
+      "clone_url": "https://github.com/vitorhugo-java/PdfFieldsSINANUtils.git",
+      "svn_url": "https://github.com/vitorhugo-java/PdfFieldsSINANUtils",
+      "homepage": "https://portalsinan.saude.gov.br/",
+      "size": 81,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Java",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "itext-5",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 417998328,
+      "node_id": "R_kgDOGOol-A",
+      "name": "Maid-chan",
+      "full_name": "vitorhugo-java/Maid-chan",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/Maid-chan",
+      "description": "A simple Discord bot.",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/Maid-chan",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/Maid-chan/deployments",
+      "created_at": "2021-10-17T02:23:30Z",
+      "updated_at": "2025-11-30T16:29:29Z",
+      "pushed_at": "2025-11-30T16:29:26Z",
+      "git_url": "git://github.com/vitorhugo-java/Maid-chan.git",
+      "ssh_url": "git@github.com:vitorhugo-java/Maid-chan.git",
+      "clone_url": "https://github.com/vitorhugo-java/Maid-chan.git",
+      "svn_url": "https://github.com/vitorhugo-java/Maid-chan",
+      "homepage": "",
+      "size": 53,
+      "stargazers_count": 1,
+      "watchers_count": 1,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 1,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "discord",
+        "discord-bot",
+        "python"
+      ],
+      "visibility": "public",
+      "forks": 1,
+      "open_issues": 0,
+      "watchers": 1,
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
     }
   ],
   "pinnedRepos": [
@@ -1693,7 +1929,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek",
-      "description": "A robust Spring Boot backend powering Espa\u00e7o Geek. Features a comprehensive GraphQL API for managing geek culture media libraries (Anime, Movies, TV Series, Games), user watch-lists, JWT authentication, and automated data processing pipelines with Spring Batch.",
+      "description": "A robust Spring Boot backend powering Espaço Geek. Features a comprehensive GraphQL API for managing geek culture media libraries (Anime, Movies, TV Series, Games), user watch-lists, JWT authentication, and automated data processing pipelines with Spring Batch.",
       "fork": false,
       "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek",
       "forks_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/forks",
@@ -1733,14 +1969,14 @@
       "releases_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/releases{/id}",
       "deployments_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/deployments",
       "created_at": "2024-04-30T05:00:59Z",
-      "updated_at": "2026-04-13T11:06:27Z",
-      "pushed_at": "2026-04-01T19:59:56Z",
+      "updated_at": "2026-04-15T00:42:58Z",
+      "pushed_at": "2026-04-15T01:32:29Z",
       "git_url": "git://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek.git",
       "ssh_url": "git@github.com:EspacoGeek-Teams/SpringAPI_EspacoGeek.git",
       "clone_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek.git",
       "svn_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek",
       "homepage": "https://espacogeek-teams.github.io/SpringAPI_EspacoGeek/",
-      "size": 3235,
+      "size": 3255,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Java",
@@ -1754,7 +1990,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 6,
+      "open_issues_count": 7,
       "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -1782,7 +2018,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 6,
+      "open_issues": 7,
       "watchers": 1,
       "default_branch": "master",
       "permissions": {
@@ -1846,7 +2082,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/EspacoGeek-Teams/NextJS_EspacoGeek",
-      "description": "The modern, responsive frontend application for the Espa\u00e7o Geek platform, built with Next.js and React. It consumes a robust GraphQL API via Apollo Client and features a dynamic UI styled with Tailwind CSS, built-in internationalization (i18n), JWT-based authentication, and user profile management for tracking geek culture media (Anime, Movies etc)",
+      "description": "The modern, responsive frontend application for the Espaço Geek platform, built with Next.js and React. It consumes a robust GraphQL API via Apollo Client and features a dynamic UI styled with Tailwind CSS, built-in internationalization (i18n), JWT-based authentication, and user profile management for tracking geek culture media (Anime, Movies etc)",
       "fork": false,
       "url": "https://api.github.com/repos/EspacoGeek-Teams/NextJS_EspacoGeek",
       "forks_url": "https://api.github.com/repos/EspacoGeek-Teams/NextJS_EspacoGeek/forks",
@@ -1999,7 +2235,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
-      "description": null,
+      "description": "⚙️ Robust REST API for the JobApplyTracker system. Built with Spring Boot and MariaDB, featuring JWT authentication, Flyway migrations, and comprehensive monitoring with Prometheus & Grafana.",
       "fork": false,
       "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
       "forks_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/forks",
@@ -2039,14 +2275,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-04-14T01:26:18Z",
-      "pushed_at": "2026-04-14T01:26:14Z",
+      "updated_at": "2026-04-14T20:20:21Z",
+      "pushed_at": "2026-04-14T20:20:22Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
-      "homepage": null,
-      "size": 157,
+      "homepage": "",
+      "size": 184,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2073,7 +2309,19 @@
       "web_commit_signoff_required": false,
       "has_pull_requests": true,
       "pull_request_creation_policy": "all",
-      "topics": [],
+      "topics": [
+        "backend",
+        "docker",
+        "flyway",
+        "grafana",
+        "java",
+        "jwt",
+        "mariadb",
+        "postgresql",
+        "prometheus",
+        "rest-api",
+        "spring-boot"
+      ],
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
@@ -2085,7 +2333,10 @@
         "push": false,
         "triage": false,
         "pull": false
-      }
+      },
+      "temp_clone_token": "",
+      "network_count": 0,
+      "subscribers_count": 0
     },
     {
       "id": 1209541142,
@@ -2115,7 +2366,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
-      "description": null,
+      "description": "🚀 A modern, responsive frontend application to track and manage job applications. Built with React, Vite, and Tailwind CSS, it features a comprehensive dashboard, application status tracking, and authentication.",
       "fork": false,
       "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
       "forks_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/forks",
@@ -2155,14 +2406,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-04-14T01:24:35Z",
-      "pushed_at": "2026-04-14T01:24:29Z",
+      "updated_at": "2026-04-14T02:33:40Z",
+      "pushed_at": "2026-04-14T02:33:36Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
-      "homepage": null,
-      "size": 229,
+      "homepage": "",
+      "size": 266,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2183,7 +2434,18 @@
       "web_commit_signoff_required": false,
       "has_pull_requests": true,
       "pull_request_creation_policy": "all",
-      "topics": [],
+      "topics": [
+        "axios",
+        "frontend",
+        "javascript",
+        "job-tracker",
+        "playwright",
+        "react",
+        "spa",
+        "tailwindcss",
+        "ui-design",
+        "vite"
+      ],
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
@@ -2195,12 +2457,232 @@
         "push": false,
         "triage": false,
         "pull": false
-      }
+      },
+      "temp_clone_token": "",
+      "network_count": 0,
+      "subscribers_count": 0
     }
   ],
   "events": [
     {
-      "id": "10543669512",
+      "id": "10590469719",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
+      },
+      "payload": {
+        "ref": "copilot/fix-errors-in-spring-api",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/fix-errors-in-spring-api",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-04-15T00:43:16Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
+    },
+    {
+      "id": "8422456158",
+      "type": "IssueCommentEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
+      },
+      "payload": {
+        "action": "created",
+        "issue": {
+          "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99",
+          "repository_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek",
+          "labels_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99/labels{/name}",
+          "comments_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99/comments",
+          "events_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99/events",
+          "html_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek/pull/99",
+          "id": 4265550271,
+          "node_id": "PR_kwDOL1ICfM7SewNh",
+          "number": 99,
+          "title": "fix: remove hardcoded DB DDL from V1 migration and upgrade setup-gradle to v4",
+          "user": {
+            "login": "Copilot",
+            "id": 198982749,
+            "node_id": "BOT_kgDOC9w8XQ",
+            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Copilot",
+            "html_url": "https://github.com/apps/copilot-swe-agent",
+            "followers_url": "https://api.github.com/users/Copilot/followers",
+            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+            "organizations_url": "https://api.github.com/users/Copilot/orgs",
+            "repos_url": "https://api.github.com/users/Copilot/repos",
+            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Copilot/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "labels": [],
+          "state": "closed",
+          "locked": false,
+          "assignees": [
+            {
+              "login": "vitorhugo-java",
+              "id": 65777252,
+              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/vitorhugo-java",
+              "html_url": "https://github.com/vitorhugo-java",
+              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            {
+              "login": "Copilot",
+              "id": 198982749,
+              "node_id": "BOT_kgDOC9w8XQ",
+              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Copilot",
+              "html_url": "https://github.com/apps/copilot-swe-agent",
+              "followers_url": "https://api.github.com/users/Copilot/followers",
+              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+              "organizations_url": "https://api.github.com/users/Copilot/orgs",
+              "repos_url": "https://api.github.com/users/Copilot/repos",
+              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Copilot/received_events",
+              "type": "Bot",
+              "user_view_type": "public",
+              "site_admin": false
+            }
+          ],
+          "milestone": null,
+          "comments": 1,
+          "created_at": "2026-04-15T00:42:04Z",
+          "updated_at": "2026-04-15T00:44:19Z",
+          "closed_at": "2026-04-15T00:42:54Z",
+          "assignee": null,
+          "type": null,
+          "active_lock_reason": null,
+          "draft": false,
+          "pull_request": {
+            "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/pulls/99",
+            "html_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek/pull/99",
+            "diff_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek/pull/99.diff",
+            "patch_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek/pull/99.patch",
+            "merged_at": "2026-04-15T00:42:54Z"
+          },
+          "body": "Two failures in the `build_native_and_publish` CI job: Flyway crashing on startup due to `espacogeekdb` access denial, and a Gradle post-step `BUILD FAILED` from an incompatible cache-cleanup API.\n\n## Changes\n\n- **`V1__initial_schema.sql`** — Removed the MySQL-dump artifact lines `CREATE DATABASE IF NOT EXISTS \\`espacogeekdb\\`` and `USE \\`espacogeekdb\\``. Flyway operates within the schema specified by the JDBC URL; the CI test user `testuser` has access only to `testdb`, causing an `Access denied (1044)` on every native container startup.\n\n- **`cicd.yml`** — Bumped all three `gradle/actions/setup-gradle@v3` references to `@v4`. The `v3` cleanup script reads `removeUnusedEntriesOlderThan`, which became write-only in Gradle 8.8+, producing a spurious `BUILD FAILED` in the post-step regardless of actual build outcome.",
+          "reactions": {
+            "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "timeline_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99/timeline",
+          "performed_via_github_app": null,
+          "state_reason": null
+        },
+        "comment": {
+          "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/comments/4248320313",
+          "html_url": "https://github.com/EspacoGeek-Teams/SpringAPI_EspacoGeek/pull/99#issuecomment-4248320313",
+          "issue_url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/99",
+          "id": 4248320313,
+          "node_id": "IC_kwDOL1ICfM79ODk5",
+          "user": {
+            "login": "vitorhugo-java",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-java",
+            "html_url": "https://github.com/vitorhugo-java",
+            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "created_at": "2026-04-15T00:43:11Z",
+          "updated_at": "2026-04-15T00:43:11Z",
+          "body": "Isso vai dar BO no server, mas depois eu arrumo",
+          "reactions": {
+            "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek/issues/comments/4248320313/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "performed_via_github_app": null
+        }
+      },
+      "public": true,
+      "created_at": "2026-04-15T00:43:11Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
+    },
+    {
+      "id": "10590462554",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2211,22 +2693,29 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
       },
       "payload": {
-        "repository_id": 1209539905,
-        "push_id": 32835843443,
-        "ref": "refs/heads/main",
-        "head": "382a6e5aca71d5b737587d52306f62df98b7ba8e",
-        "before": "aee6a64c1797e3604ec4578987158c5fda4acb09"
+        "repository_id": 793903740,
+        "push_id": 32882407063,
+        "ref": "refs/heads/master",
+        "head": "dc40c1d68d65b57a65811bc34eaf2956a7830834",
+        "before": "331d29a2c6610458bcdcf914ebeeab697c8ba235"
       },
       "public": true,
-      "created_at": "2026-04-14T01:26:14Z"
+      "created_at": "2026-04-15T00:42:55Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
     },
     {
-      "id": "10543626961",
+      "id": "10589487446",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2237,23 +2726,30 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
       },
       "payload": {
-        "repository_id": 1209541142,
-        "push_id": 32835801145,
-        "ref": "refs/heads/main",
-        "head": "d663fd2a9e872a43221d6e2737f861cb33d45c7f",
-        "before": "fdd98ad226e84b0664cdf76d0f7050ebb2e19aa2"
+        "repository_id": 793903740,
+        "push_id": 32881441708,
+        "ref": "refs/heads/master",
+        "head": "331d29a2c6610458bcdcf914ebeeab697c8ba235",
+        "before": "c5e9f96d3d5fa9dd182830b9782d8efc8316ea0f"
       },
       "public": true,
-      "created_at": "2026-04-14T01:24:30Z"
+      "created_at": "2026-04-15T00:00:02Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
     },
     {
-      "id": "10543044632",
-      "type": "PushEvent",
+      "id": "8421615745",
+      "type": "WatchEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2263,152 +2759,18 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+        "id": 1180170968,
+        "name": "Thiago-code-lab/aws-solutions-architect-brasil",
+        "url": "https://api.github.com/repos/Thiago-code-lab/aws-solutions-architect-brasil"
       },
       "payload": {
-        "repository_id": 1209539905,
-        "push_id": 32835223263,
-        "ref": "refs/heads/main",
-        "head": "aee6a64c1797e3604ec4578987158c5fda4acb09",
-        "before": "5a051f582c61fd590002aeb16436b923000b14b3"
+        "action": "started"
       },
       "public": true,
-      "created_at": "2026-04-14T01:00:09Z"
+      "created_at": "2026-04-14T23:58:49Z"
     },
     {
-      "id": "10542801733",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 32834982545,
-        "ref": "refs/heads/main",
-        "head": "5a051f582c61fd590002aeb16436b923000b14b3",
-        "before": "44564ee7c336645c1c64709f09baba71e4b739e6"
-      },
-      "public": true,
-      "created_at": "2026-04-14T00:49:03Z"
-    },
-    {
-      "id": "10542789714",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 32834970619,
-        "ref": "refs/heads/main",
-        "head": "fdd98ad226e84b0664cdf76d0f7050ebb2e19aa2",
-        "before": "faee4c19de26329a7e7f9787de12708b8a82432c"
-      },
-      "public": true,
-      "created_at": "2026-04-14T00:48:29Z"
-    },
-    {
-      "id": "10541707071",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 32833896566,
-        "ref": "refs/heads/main",
-        "head": "44564ee7c336645c1c64709f09baba71e4b739e6",
-        "before": "2516d6fdcae211b24fb65f7f298e42668848e9df"
-      },
-      "public": true,
-      "created_at": "2026-04-14T00:01:54Z"
-    },
-    {
-      "id": "10541705214",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 32833894709,
-        "ref": "refs/heads/main",
-        "head": "faee4c19de26329a7e7f9787de12708b8a82432c",
-        "before": "a00e526f492810120a6dc7a3ada09df34479ec14"
-      },
-      "public": true,
-      "created_at": "2026-04-14T00:01:50Z"
-    },
-    {
-      "id": "10531222830",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 32823479023,
-        "ref": "refs/heads/main",
-        "head": "2516d6fdcae211b24fb65f7f298e42668848e9df",
-        "before": "50c35a179a4a5b7ebd04b53f47f22abd44b3f97e"
-      },
-      "public": true,
-      "created_at": "2026-04-13T18:25:31Z"
-    },
-    {
-      "id": "10531194422",
+      "id": "10583380673",
       "type": "DeleteEvent",
       "actor": {
         "id": 65777252,
@@ -2424,16 +2786,48 @@
         "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "ref": "copilot/add-distributed-tracing",
+        "ref": "copilot/refactor-actuator-management-port",
         "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/add-distributed-tracing",
+        "full_ref": "refs/heads/copilot/refactor-actuator-management-port",
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-04-13T18:24:44Z"
+      "created_at": "2026-04-14T20:20:22Z"
     },
     {
-      "id": "10531193063",
+      "id": "10583379155",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
+      },
+      "payload": {
+        "ref": "copilot/refactor-actuator-internal-port",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/refactor-actuator-internal-port",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-04-14T20:20:20Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
+    },
+    {
+      "id": "10583377818",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2450,21 +2844,74 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 32823449456,
+        "push_id": 32875394580,
         "ref": "refs/heads/main",
-        "head": "50c35a179a4a5b7ebd04b53f47f22abd44b3f97e",
-        "before": "11201b2bfbc2ed49734dacc31f5721871a4937ba"
+        "head": "dfa5bb6540475077339843df64e93f2905a6a190",
+        "before": "9ca23b69e50494aeddd928fe74c5a2afd876f499"
       },
       "public": true,
-      "created_at": "2026-04-13T18:24:41Z"
+      "created_at": "2026-04-14T20:20:17Z"
+    },
+    {
+      "id": "10583376350",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 793903740,
+        "name": "EspacoGeek-Teams/SpringAPI_EspacoGeek",
+        "url": "https://api.github.com/repos/EspacoGeek-Teams/SpringAPI_EspacoGeek"
+      },
+      "payload": {
+        "repository_id": 793903740,
+        "push_id": 32875393132,
+        "ref": "refs/heads/master",
+        "head": "dfd2eb6c4e5b5ef65dce7889875dd28695f84fdd",
+        "before": "24e78a0f30e9f45243999304f5bfe1414e024918"
+      },
+      "public": true,
+      "created_at": "2026-04-14T20:20:14Z",
+      "org": {
+        "id": 168793932,
+        "login": "EspacoGeek-Teams",
+        "gravatar_id": "",
+        "url": "https://api.github.com/orgs/EspacoGeek-Teams",
+        "avatar_url": "https://avatars.githubusercontent.com/u/168793932?"
+      }
+    },
+    {
+      "id": "10582272528",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1189545274,
+        "name": "vitorhugo-java/portifolio",
+        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
+      },
+      "payload": {
+        "ref": "copilot/fix-pinned-repositories-visibility",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/fix-pinned-repositories-visibility",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-04-14T19:48:15Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-04-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-04-16",
       "count": 0,
@@ -4192,7 +4639,7 @@
     },
     {
       "date": "2026-03-27",
-      "count": 42,
+      "count": 12,
       "level": 4
     },
     {
@@ -4282,9 +4729,14 @@
     },
     {
       "date": "2026-04-14",
-      "count": 7,
-      "level": 3
+      "count": 33,
+      "level": 4
+    },
+    {
+      "date": "2026-04-15",
+      "count": 4,
+      "level": 2
     }
   ],
-  "generatedAt": "2026-04-14T01:34:00.465Z"
+  "generatedAt": "2026-04-15T01:33:50.059Z"
 }
