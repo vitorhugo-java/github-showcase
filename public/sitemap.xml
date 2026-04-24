@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vitorhugo-java.github.io</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -13,6 +13,11 @@
   <url>
     <loc>https://vitorhugo1207.github.io/monkeyGallery/</loc>
     <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://espacogeek.com</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -27,22 +32,17 @@
   </url>
   <url>
     <loc>http://hugojava.dev/</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://vitorhugo-java.github.io/SpringAPI_EspacoGeek/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://github.com/vitorhugo1207</loc>
     <lastmod>2026-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://espacogeek-teams.github.io/SpringAPI_EspacoGeek/</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://espacogeek.com</loc>
-    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
