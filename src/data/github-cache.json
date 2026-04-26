@@ -36,6 +36,245 @@
   },
   "repos": [
     {
+      "id": 1217570049,
+      "node_id": "R_kgDOSJKlAQ",
+      "name": "almighty-blocker-unstoppable",
+      "full_name": "vitorhugo-java/almighty-blocker-unstoppable",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable",
+      "description": "Almighty Blocker: The unstoppable hosts file enforcer. Built in Go, it locks down your redirect rules using native OS services (systemd/SCM) and a robust primary/watchdog heartbeat system to prevent bypasses.",
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/deployments",
+      "created_at": "2026-04-22T02:38:22Z",
+      "updated_at": "2026-04-25T05:00:05Z",
+      "pushed_at": "2026-04-25T05:00:02Z",
+      "git_url": "git://github.com/vitorhugo-java/almighty-blocker-unstoppable.git",
+      "ssh_url": "git@github.com:vitorhugo-java/almighty-blocker-unstoppable.git",
+      "clone_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable.git",
+      "svn_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable",
+      "homepage": "",
+      "size": 30277,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "adblock",
+        "cross-platform",
+        "cybersecurity",
+        "dns-filter",
+        "failover",
+        "go",
+        "golang",
+        "hosts-file",
+        "network-security",
+        "systemd",
+        "watchdog",
+        "windows-service"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
+      "id": 1189545274,
+      "node_id": "R_kgDORucFOg",
+      "name": "portifolio",
+      "full_name": "vitorhugo-java/portifolio",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/portifolio",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/portifolio/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/portifolio/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/portifolio/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/portifolio/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/portifolio/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/portifolio/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/portifolio/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/portifolio/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/portifolio/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/portifolio/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/portifolio/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/portifolio/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/portifolio/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
+      "created_at": "2026-03-23T12:34:58Z",
+      "updated_at": "2026-04-25T02:57:42Z",
+      "pushed_at": "2026-04-25T02:57:39Z",
+      "git_url": "git://github.com/vitorhugo-java/portifolio.git",
+      "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
+      "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
+      "svn_url": "https://github.com/vitorhugo-java/portifolio",
+      "homepage": "http://hugojava.dev/",
+      "size": 432,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "TypeScript",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": false,
+      "has_pages": true,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1172685169,
       "node_id": "R_kgDOReXBcQ",
       "name": "java-faces-quick-start",
@@ -110,7 +349,7 @@
       "clone_url": "https://github.com/vitorhugo-java/java-faces-quick-start.git",
       "svn_url": "https://github.com/vitorhugo-java/java-faces-quick-start",
       "homepage": "",
-      "size": 63,
+      "size": 66,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -148,135 +387,6 @@
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1217570049,
-      "node_id": "R_kgDOSJKlAQ",
-      "name": "almighty-blocker-unstoppable",
-      "full_name": "vitorhugo-java/almighty-blocker-unstoppable",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable",
-      "description": "Almighty Blocker: The unstoppable hosts file enforcer. Built in Go, it locks down your redirect rules using native OS services (systemd/SCM) and a robust primary/watchdog heartbeat system to prevent bypasses.",
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/deployments",
-      "created_at": "2026-04-22T02:38:22Z",
-      "updated_at": "2026-04-25T00:55:59Z",
-      "pushed_at": "2026-04-25T00:55:54Z",
-      "git_url": "git://github.com/vitorhugo-java/almighty-blocker-unstoppable.git",
-      "ssh_url": "git@github.com:vitorhugo-java/almighty-blocker-unstoppable.git",
-      "clone_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable.git",
-      "svn_url": "https://github.com/vitorhugo-java/almighty-blocker-unstoppable",
-      "homepage": "",
-      "size": 30248,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Go",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 2,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [
-        "adblock",
-        "cross-platform",
-        "cybersecurity",
-        "dns-filter",
-        "failover",
-        "go",
-        "golang",
-        "hosts-file",
-        "network-security",
-        "systemd",
-        "watchdog",
-        "windows-service"
-      ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 2,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -384,116 +494,6 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
       },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1189545274,
-      "node_id": "R_kgDORucFOg",
-      "name": "portifolio",
-      "full_name": "vitorhugo-java/portifolio",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/portifolio",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/portifolio/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/portifolio/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/portifolio/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/portifolio/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/portifolio/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/portifolio/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/portifolio/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/portifolio/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/portifolio/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/portifolio/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/portifolio/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/portifolio/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/portifolio/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/portifolio/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/portifolio/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/portifolio/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/portifolio/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/portifolio/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/portifolio/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
-      "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-04-24T02:58:17Z",
-      "pushed_at": "2026-04-24T02:58:13Z",
-      "git_url": "git://github.com/vitorhugo-java/portifolio.git",
-      "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
-      "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
-      "svn_url": "https://github.com/vitorhugo-java/portifolio",
-      "homepage": "http://hugojava.dev/",
-      "size": 427,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "TypeScript",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": false,
-      "has_pages": true,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": null,
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
@@ -1987,13 +1987,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringAPI_EspacoGeek/deployments",
       "created_at": "2024-04-30T05:00:59Z",
       "updated_at": "2026-04-24T02:40:21Z",
-      "pushed_at": "2026-04-19T18:44:58Z",
+      "pushed_at": "2026-04-25T01:41:09Z",
       "git_url": "git://github.com/vitorhugo-java/SpringAPI_EspacoGeek.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringAPI_EspacoGeek.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringAPI_EspacoGeek.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringAPI_EspacoGeek",
       "homepage": "https://vitorhugo-java.github.io/SpringAPI_EspacoGeek/",
-      "size": 3515,
+      "size": 3511,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Java",
@@ -2249,14 +2249,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-04-25T00:55:37Z",
-      "pushed_at": "2026-04-25T01:33:23Z",
+      "updated_at": "2026-04-25T04:15:38Z",
+      "pushed_at": "2026-04-25T04:15:35Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3496,
+      "size": 3508,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2270,7 +2270,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 3,
+      "open_issues_count": 1,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -2299,7 +2299,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 3,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2381,14 +2381,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-04-25T00:55:12Z",
-      "pushed_at": "2026-04-25T00:55:08Z",
+      "updated_at": "2026-04-25T06:34:53Z",
+      "pushed_at": "2026-04-25T06:34:48Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
       "homepage": "",
-      "size": 966,
+      "size": 998,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2402,7 +2402,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 6,
+      "open_issues_count": 5,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -2423,7 +2423,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 6,
+      "open_issues": 5,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2440,7 +2440,85 @@
   ],
   "events": [
     {
-      "id": "11021953706",
+      "id": "11027177555",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 33318832911,
+        "ref": "refs/heads/main",
+        "head": "22f09969e9fc266a1cfdbd84592c1b7df27b3783",
+        "before": "4dd6c16c7c9c8af9e927a53b197ed009894a3727"
+      },
+      "public": true,
+      "created_at": "2026-04-25T06:34:49Z"
+    },
+    {
+      "id": "11025557097",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1217570049,
+        "name": "vitorhugo-java/almighty-blocker-unstoppable",
+        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
+      },
+      "payload": {
+        "repository_id": 1217570049,
+        "push_id": 33317209882,
+        "ref": "refs/heads/main",
+        "head": "65f814e6d39fe7f4d7d1d5aacf77c54e98d343bf",
+        "before": "d41f707d9cee41f874447cbd7466f0dc9116969c"
+      },
+      "public": true,
+      "created_at": "2026-04-25T05:00:02Z"
+    },
+    {
+      "id": "11025541308",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1217570049,
+        "name": "vitorhugo-java/almighty-blocker-unstoppable",
+        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
+      },
+      "payload": {
+        "repository_id": 1217570049,
+        "push_id": 33317194162,
+        "ref": "refs/heads/main",
+        "head": "d41f707d9cee41f874447cbd7466f0dc9116969c",
+        "before": "76c805218267a0582570f7d8a65422f2c33a1b62"
+      },
+      "public": true,
+      "created_at": "2026-04-25T04:59:02Z"
+    },
+    {
+      "id": "11025400777",
       "type": "DeleteEvent",
       "actor": {
         "id": 65777252,
@@ -2451,9 +2529,9 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
         "ref": "fix/require-application-date-when-not-send-later",
@@ -2462,112 +2540,10 @@
         "pusher_type": "user"
       },
       "public": true,
-      "created_at": "2026-04-25T01:32:11Z"
+      "created_at": "2026-04-25T04:50:28Z"
     },
     {
-      "id": "11021949378",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/extend-api-docker-support",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/extend-api-docker-support",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-04-25T01:31:56Z"
-    },
-    {
-      "id": "11021948177",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/fix-k6-syntax-error",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/fix-k6-syntax-error",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-04-25T01:31:51Z"
-    },
-    {
-      "id": "11021254332",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1172685169,
-        "name": "vitorhugo-java/java-faces-quick-start",
-        "url": "https://api.github.com/repos/vitorhugo-java/java-faces-quick-start"
-      },
-      "payload": {
-        "repository_id": 1172685169,
-        "push_id": 33312904383,
-        "ref": "refs/heads/main",
-        "head": "e15b916f3696e69a2b5248cf9538b115c2bb33a1",
-        "before": "a9085fdfb894e8722097e19d579eaa676d1026ec"
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:56:38Z"
-    },
-    {
-      "id": "11021242541",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1217570049,
-        "name": "vitorhugo-java/almighty-blocker-unstoppable",
-        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
-      },
-      "payload": {
-        "repository_id": 1217570049,
-        "push_id": 33312892499,
-        "ref": "refs/heads/main",
-        "head": "659b30c35bdaef019a24cef15a4d5de41e6ce8c1",
-        "before": "73f5292c0dbc2306e91fe8c641a27c13cc7152c2"
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:55:55Z"
-    },
-    {
-      "id": "8776709035",
+      "id": "8779839296",
       "type": "PullRequestEvent",
       "actor": {
         "id": 65777252,
@@ -2578,191 +2554,322 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1217570049,
-        "name": "vitorhugo-java/almighty-blocker-unstoppable",
-        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
         "action": "merged",
-        "number": 7,
+        "number": 25,
         "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/pulls/7",
-          "id": 3582176262,
-          "number": 7,
-          "head": {
-            "ref": "agents/tor-node-ip-restriction",
-            "sha": "70d2f9a8df00f41244f14d594e143a0b6a610584",
-            "repo": {
-              "id": 1217570049,
-              "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
-              "name": "almighty-blocker-unstoppable"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "73f5292c0dbc2306e91fe8c641a27c13cc7152c2",
-            "repo": {
-              "id": 1217570049,
-              "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
-              "name": "almighty-blocker-unstoppable"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:55:54Z"
-    },
-    {
-      "id": "8776707518",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1217570049,
-        "name": "vitorhugo-java/almighty-blocker-unstoppable",
-        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 7,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable/pulls/7",
-          "id": 3582176262,
-          "number": 7,
-          "head": {
-            "ref": "agents/tor-node-ip-restriction",
-            "sha": "70d2f9a8df00f41244f14d594e143a0b6a610584",
-            "repo": {
-              "id": 1217570049,
-              "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
-              "name": "almighty-blocker-unstoppable"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "73f5292c0dbc2306e91fe8c641a27c13cc7152c2",
-            "repo": {
-              "id": 1217570049,
-              "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable",
-              "name": "almighty-blocker-unstoppable"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:55:48Z"
-    },
-    {
-      "id": "11021238168",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1217570049,
-        "name": "vitorhugo-java/almighty-blocker-unstoppable",
-        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
-      },
-      "payload": {
-        "repository_id": 1217570049,
-        "push_id": 33312888190,
-        "ref": "refs/heads/agents/tor-node-ip-restriction",
-        "head": "70d2f9a8df00f41244f14d594e143a0b6a610584",
-        "before": "73f5292c0dbc2306e91fe8c641a27c13cc7152c2"
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:55:39Z"
-    },
-    {
-      "id": "11021236653",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 33312886557,
-        "ref": "refs/heads/main",
-        "head": "c811e90147860aa8797e79a9fc33a0e835c9e999",
-        "before": "135470bc76d68d2383a413c5464d8e1221f95f5f"
-      },
-      "public": true,
-      "created_at": "2026-04-25T00:55:33Z"
-    },
-    {
-      "id": "8776704406",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "merged",
-        "number": 23,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/23",
-          "id": 3582159097,
-          "number": 23,
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/25",
+          "id": 3582166119,
+          "number": 25,
           "head": {
             "ref": "fix/require-application-date-when-not-send-later",
-            "sha": "c811e90147860aa8797e79a9fc33a0e835c9e999",
+            "sha": "4cd69b42d4a43307d9a11c732e2f077e9a48c303",
             "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
             }
           },
           "base": {
             "ref": "main",
-            "sha": "135470bc76d68d2383a413c5464d8e1221f95f5f",
+            "sha": "a4cbf1472119ebd4e2165787216170b15d6afc44",
             "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
             }
           }
         }
       },
       "public": true,
-      "created_at": "2026-04-25T00:55:34Z"
+      "created_at": "2026-04-25T04:50:23Z"
+    },
+    {
+      "id": "11025399182",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 33317051883,
+        "ref": "refs/heads/main",
+        "head": "4dd6c16c7c9c8af9e927a53b197ed009894a3727",
+        "before": "a4cbf1472119ebd4e2165787216170b15d6afc44"
+      },
+      "public": true,
+      "created_at": "2026-04-25T04:50:24Z"
+    },
+    {
+      "id": "8779838295",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "action": "reopened",
+        "number": 25,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/25",
+          "id": 3582166119,
+          "number": 25,
+          "head": {
+            "ref": "fix/require-application-date-when-not-send-later",
+            "sha": "4cd69b42d4a43307d9a11c732e2f077e9a48c303",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "a4cbf1472119ebd4e2165787216170b15d6afc44",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-04-25T04:50:17Z"
+    },
+    {
+      "id": "8779836669",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "action": "closed",
+        "number": 25,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/25",
+          "id": 3582166119,
+          "number": 25,
+          "head": {
+            "ref": "fix/require-application-date-when-not-send-later",
+            "sha": "4cd69b42d4a43307d9a11c732e2f077e9a48c303",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "a4cbf1472119ebd4e2165787216170b15d6afc44",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-04-25T00:51:53Z"
+    },
+    {
+      "id": "11025092444",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1217570049,
+        "name": "vitorhugo-java/almighty-blocker-unstoppable",
+        "url": "https://api.github.com/repos/vitorhugo-java/almighty-blocker-unstoppable"
+      },
+      "payload": {
+        "repository_id": 1217570049,
+        "push_id": 33316744730,
+        "ref": "refs/heads/main",
+        "head": "76c805218267a0582570f7d8a65422f2c33a1b62",
+        "before": "064d971d0d6dd9e3295d0370633d5e1521bd1cba"
+      },
+      "public": true,
+      "created_at": "2026-04-25T04:31:43Z"
+    },
+    {
+      "id": "8779589368",
+      "type": "IssuesEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "action": "closed",
+        "issue": {
+          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22",
+          "repository_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
+          "labels_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22/labels{/name}",
+          "comments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22/comments",
+          "events_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22/events",
+          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22",
+          "id": 4320353875,
+          "node_id": "I_kwDOSBgdQc8AAAABAYNeUw",
+          "number": 22,
+          "title": "[DRAFT] Only start count Follow-ups when the application is sent",
+          "user": {
+            "login": "vitorhugo-java",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-java",
+            "html_url": "https://github.com/vitorhugo-java",
+            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "labels": [],
+          "state": "closed",
+          "locked": false,
+          "assignees": [
+            {
+              "login": "vitorhugo-java",
+              "id": 65777252,
+              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/vitorhugo-java",
+              "html_url": "https://github.com/vitorhugo-java",
+              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            }
+          ],
+          "milestone": null,
+          "comments": 0,
+          "created_at": "2026-04-24T03:43:46Z",
+          "updated_at": "2026-04-25T04:24:32Z",
+          "closed_at": "2026-04-25T04:24:32Z",
+          "assignee": {
+            "login": "vitorhugo-java",
+            "id": 65777252,
+            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vitorhugo-java",
+            "html_url": "https://github.com/vitorhugo-java",
+            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "active_lock_reason": null,
+          "sub_issues_summary": {
+            "total": 0,
+            "completed": 0,
+            "percent_completed": 0
+          },
+          "issue_dependencies_summary": {
+            "blocked_by": 0,
+            "total_blocked_by": 0,
+            "blocking": 0,
+            "total_blocking": 0
+          },
+          "body": "Here is possible to use application date.",
+          "reactions": {
+            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+          },
+          "timeline_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/22/timeline",
+          "performed_via_github_app": null,
+          "state_reason": "completed",
+          "pinned_comment": null
+        }
+      },
+      "public": true,
+      "created_at": "2026-04-25T04:24:32Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-04-26",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-04-27",
       "count": 0,
@@ -4525,12 +4632,12 @@
     },
     {
       "date": "2026-04-14",
-      "count": 14,
-      "level": 4
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-15",
-      "count": 33,
+      "count": 24,
       "level": 4
     },
     {
@@ -4540,7 +4647,7 @@
     },
     {
       "date": "2026-04-17",
-      "count": 38,
+      "count": 37,
       "level": 4
     },
     {
@@ -4580,9 +4687,14 @@
     },
     {
       "date": "2026-04-25",
-      "count": 23,
+      "count": 47,
       "level": 4
+    },
+    {
+      "date": "2026-04-26",
+      "count": 0,
+      "level": 0
     }
   ],
-  "generatedAt": "2026-04-25T01:33:24.936Z"
+  "generatedAt": "2026-04-26T01:33:43.320Z"
 }
