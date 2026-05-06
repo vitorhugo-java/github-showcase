@@ -36,6 +36,122 @@
   },
   "repos": [
     {
+      "id": 1218247978,
+      "node_id": "R_kgDOSJz9Kg",
+      "name": "go-link-shortener",
+      "full_name": "vitorhugo-java/go-link-shortener",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/go-link-shortener",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/deployments",
+      "created_at": "2026-04-22T17:24:21Z",
+      "updated_at": "2026-05-05T22:13:29Z",
+      "pushed_at": "2026-05-05T22:15:20Z",
+      "git_url": "git://github.com/vitorhugo-java/go-link-shortener.git",
+      "ssh_url": "git@github.com:vitorhugo-java/go-link-shortener.git",
+      "clone_url": "https://github.com/vitorhugo-java/go-link-shortener.git",
+      "svn_url": "https://github.com/vitorhugo-java/go-link-shortener",
+      "homepage": null,
+      "size": 36,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Go",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 1,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 1,
+      "watchers": 0,
+      "default_branch": "main",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1189545274,
       "node_id": "R_kgDORucFOg",
       "name": "portifolio",
@@ -103,14 +219,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-05-04T02:58:27Z",
-      "pushed_at": "2026-05-04T02:58:22Z",
+      "updated_at": "2026-05-05T02:58:11Z",
+      "pushed_at": "2026-05-05T02:58:08Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 457,
+      "size": 464,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -622,122 +738,6 @@
         "kickstarter",
         "primefaces"
       ],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 0,
-      "watchers": 0,
-      "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1218247978,
-      "node_id": "R_kgDOSJz9Kg",
-      "name": "go-link-shortener",
-      "full_name": "vitorhugo-java/go-link-shortener",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/go-link-shortener",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/go-link-shortener/deployments",
-      "created_at": "2026-04-22T17:24:21Z",
-      "updated_at": "2026-04-24T19:28:03Z",
-      "pushed_at": "2026-04-24T19:27:59Z",
-      "git_url": "git://github.com/vitorhugo-java/go-link-shortener.git",
-      "ssh_url": "git@github.com:vitorhugo-java/go-link-shortener.git",
-      "clone_url": "https://github.com/vitorhugo-java/go-link-shortener.git",
-      "svn_url": "https://github.com/vitorhugo-java/go-link-shortener",
-      "homepage": null,
-      "size": 24,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Go",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 0,
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
       "visibility": "public",
       "forks": 0,
       "open_issues": 0,
@@ -2255,14 +2255,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-05-05T01:00:59Z",
-      "pushed_at": "2026-05-05T01:30:34Z",
+      "updated_at": "2026-05-05T22:56:38Z",
+      "pushed_at": "2026-05-05T23:04:15Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3509,
+      "size": 3619,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2387,14 +2387,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-05-05T00:38:30Z",
-      "pushed_at": "2026-05-05T01:30:34Z",
+      "updated_at": "2026-05-06T01:09:59Z",
+      "pushed_at": "2026-05-06T01:11:13Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
       "homepage": "",
-      "size": 1408,
+      "size": 990,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2408,7 +2408,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 4,
+      "open_issues_count": 1,
       "license": null,
       "allow_forking": true,
       "is_template": false,
@@ -2429,7 +2429,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 4,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2446,321 +2446,7 @@
   ],
   "events": [
     {
-      "id": "9083071195",
-      "type": "IssueCommentEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "action": "created",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27/events",
-          "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27",
-          "id": 4380850214,
-          "node_id": "PR_kwDOSBgiFs7YOnO7",
-          "number": 27,
-          "title": "feat: add google drive resume workflow",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "open",
-          "locked": false,
-          "assignees": [],
-          "milestone": null,
-          "comments": 1,
-          "created_at": "2026-05-05T01:32:01Z",
-          "updated_at": "2026-05-05T01:32:51Z",
-          "closed_at": null,
-          "assignee": null,
-          "active_lock_reason": null,
-          "draft": false,
-          "pull_request": {
-            "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/27",
-            "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27",
-            "diff_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27.diff",
-            "patch_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27.patch",
-            "merged_at": null
-          },
-          "body": "This pull request adds Google Drive resume integration to the application form, allowing users to create a Google Docs resume copy from a configured base resume and open Gemini directly from the form. The main changes include implementing the Google Drive API integration, updating the application form UI and logic to support resume creation, and adding utility functions for handling external links.\r\n\r\n**Google Drive Integration:**\r\n\r\n- Added a new API module (`googleDrive.js`) for interacting with Google Drive, including functions to fetch and update settings, create resume copies, and manage the connection.\r\n- Integrated Google Drive settings and resume creation into the application form, including state management, loading logic, and error handling. [[1]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53R52-R57) [[2]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53R134-R137) [[3]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53R154-R201)\r\n\r\n**Application Form Enhancements:**\r\n\r\n- Added UI components to the application form for Google Drive resume tools, including buttons to open Gemini and create a resume, a dropdown for selecting a base resume, and contextual messaging based on integration status.\r\n- Implemented the logic to handle resume creation, including validation, application creation (if needed), and opening the resulting Google Doc in a new tab.\r\n\r\n**Utility Functions:**\r\n\r\n- Added new utility functions in `externalLinks.js` for opening external URLs, handling pending tabs, and navigating opened tabs, used for the Gemini and resume creation features.\r\n\r\n**Code Structure Improvements:**\r\n\r\n- Refactored payload building for application creation/update into a helper function (`buildApplicationPayload`) for reuse and clarity. [[1]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53R100-R114) [[2]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53L228-L243)\r\n- Consolidated gamification event recording into a single helper function to reduce code duplication and improve error handling. [[1]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53L206-L219) [[2]](diffhunk://#diff-874dff9db610598a921755d34cafe137455d0e73814cbd590d7eca9de1918a53L289-R479)",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null
-        },
-        "comment": {
-          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/comments/4375886543",
-          "html_url": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27#issuecomment-4375886543",
-          "issue_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/27",
-          "id": 4375886543,
-          "node_id": "IC_kwDOSBgiFs8AAAABBNK6zw",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "created_at": "2026-05-05T01:32:14Z",
-          "updated_at": "2026-05-05T01:32:14Z",
-          "body": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/issues/comments/4375886543/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "performed_via_github_app": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-05T01:32:14Z"
-    },
-    {
-      "id": "9083069726",
-      "type": "IssueCommentEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "created",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24/events",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24",
-          "id": 4380849593,
-          "node_id": "PR_kwDOSBgdQc7YOnGm",
-          "number": 24,
-          "title": "feat: add google drive resume integration",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [
-            {
-              "id": 10682272884,
-              "node_id": "LA_kwDOSBgdQc8AAAACfLaMdA",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/documentation",
-              "name": "documentation",
-              "color": "0075ca",
-              "default": true,
-              "description": "Improvements or additions to documentation"
-            },
-            {
-              "id": 10783125550,
-              "node_id": "LA_kwDOSBgdQc8AAAACgrlwLg",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/backend",
-              "name": "backend",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871793,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJcQ",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/tests",
-              "name": "tests",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871798,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJdg",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/database",
-              "name": "database",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            },
-            {
-              "id": 10864871801,
-              "node_id": "LA_kwDOSBgdQc8AAAACh5jJeQ",
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/labels/configuration",
-              "name": "configuration",
-              "color": "ededed",
-              "default": false,
-              "description": null
-            }
-          ],
-          "state": "open",
-          "locked": false,
-          "assignees": [],
-          "milestone": null,
-          "comments": 1,
-          "created_at": "2026-05-05T01:31:50Z",
-          "updated_at": "2026-05-05T01:32:54Z",
-          "closed_at": null,
-          "assignee": null,
-          "active_lock_reason": null,
-          "draft": false,
-          "pull_request": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/24",
-            "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24",
-            "diff_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24.diff",
-            "patch_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24.patch",
-            "merged_at": null
-          },
-          "body": "This pull request introduces Google Drive integration to the backend, enabling users to connect their Google Drive accounts via OAuth2 and automate copying Google Docs resumes for job applications. It adds new endpoints, configuration, documentation, and supporting classes for managing the OAuth flow, Drive folder selection, and resume copy operations.\r\n\r\n**Key changes:**\r\n\r\n**Google Drive Integration Features:**\r\n- Added a new `GoogleDriveController` with endpoints for starting OAuth, handling callbacks, checking connection status, managing root folders and base resumes, and copying resumes into application folders.\r\n- Introduced DTOs for Google Drive operations, including requests and responses for OAuth, base resume management, and resume copy actions. (`GoogleDriveBaseResumeRequest`, `GoogleDriveBaseResumeResponse`, `GoogleDriveOAuthStartResponse`, `GoogleDriveResumeCopyRequest`, `GoogleDriveResumeCopyResponse`) [[1]](diffhunk://#diff-43ece7872599855a39d12ceb3edc361aa5e2c758953f7c7594fe1ac86ae04308R1-R11) [[2]](diffhunk://#diff-1912650b4d01e502324ea38c933daededfbcf245e5dd244b7f58e8ca5682f52aR1-R15) [[3]](diffhunk://#diff-f95e4653104024d5d71773af321fd5ed5d39f471bad0b46d7d9734e492ab5a77R1-R17) [[4]](diffhunk://#diff-9386c1537afb3198419b1fee756dd3dbaf859d563856d6988d1dca7c50cde036R1-R13) [[5]](diffhunk://#diff-8e697323c9ad93b3e45349dba3f2e86cf01b74e39f129c0d7f282d8b4bd4c674R1-R17)\r\n\r\n**Configuration and Security:**\r\n- Added `GoogleDriveProperties` for managing Drive-related configuration via environment variables and Spring properties.\r\n- Updated security configuration to allow unauthenticated access to the Google OAuth callback endpoint.\r\n- Added required dependencies for Google Drive integration.\r\n\r\n**Documentation and Environment:**\r\n- Updated `.env.example` and documentation to include new Google Drive environment variables and setup instructions. [[1]](diffhunk://#diff-a3046da0d15a27e89f2afe639b25748a7ad4d9290af3e7b1b6c1a5533c8f0a8cR28-R34) [[2]](diffhunk://#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R208-R357) [[3]](diffhunk://#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R419-R422)\r\n- Expanded the `README.md` with detailed API documentation for new Google Drive endpoints, OAuth flow, supported file types, and example request/response payloads. [[1]](diffhunk://#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R85-R97) [[2]](diffhunk://#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R208-R357) [[3]](diffhunk://#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R419-R422)\r\n- Updated all API endpoint paths in documentation to use `/api/v1/` for consistency.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null
-        },
-        "comment": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4375886183",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/24#issuecomment-4375886183",
-          "issue_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/24",
-          "id": 4375886183,
-          "node_id": "IC_kwDOSBgdQc8AAAABBNK5Zw",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "created_at": "2026-05-05T01:32:08Z",
-          "updated_at": "2026-05-05T01:32:08Z",
-          "body": "https://github.com/vitorhugo-java/React-JobApplyTracker/pull/27",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4375886183/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "performed_via_github_app": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-05T01:32:08Z"
-    },
-    {
-      "id": "9083067091",
+      "id": "9126664726",
       "type": "PullRequestEvent",
       "actor": {
         "id": 65777252,
@@ -2776,15 +2462,15 @@
         "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
-        "action": "opened",
-        "number": 27,
+        "action": "closed",
+        "number": 29,
         "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/27",
-          "id": 3627709371,
-          "number": 27,
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/29",
+          "id": 3628191718,
+          "number": 29,
           "head": {
-            "ref": "feat/google-drive-resume-integration",
-            "sha": "7b32dc22eb39d351ee773e8b06181195667b1a33",
+            "ref": "dependabot/npm_and_yarn/zustand-5.0.13",
+            "sha": "a5475acc1b07e4fde44c470733f61742df7875dd",
             "repo": {
               "id": 1209541142,
               "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
@@ -2803,84 +2489,11 @@
         }
       },
       "public": true,
-      "created_at": "2026-05-05T01:32:01Z"
+      "created_at": "2026-05-05T04:01:52Z"
     },
     {
-      "id": "9083064077",
+      "id": "9126664725",
       "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 24,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/24",
-          "id": 3627708838,
-          "number": 24,
-          "head": {
-            "ref": "feat/google-drive-resume-integration",
-            "sha": "e77da6c88cd2c7f8e91c40ec6bfc548abadd2325",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          },
-          "base": {
-            "ref": "main",
-            "sha": "aef81ce323a5f474c825804944ea540b9be8e57d",
-            "repo": {
-              "id": 1209539905,
-              "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-              "name": "SpringBoot-JobApplyTracker"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-05T01:31:50Z"
-    },
-    {
-      "id": "11415628277",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "feat/google-drive-resume-integration",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/feat/google-drive-resume-integration",
-        "master_branch": "main",
-        "description": "⚙️ Robust REST API for the JobApplyTracker system. Built with Spring Boot and MariaDB, featuring JWT authentication, Flyway migrations, and comprehensive monitoring with Prometheus & Grafana.",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-05T01:30:35Z"
-    },
-    {
-      "id": "11415628434",
-      "type": "CreateEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2895,19 +2508,38 @@
         "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
-        "ref": "feat/google-drive-resume-integration",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/feat/google-drive-resume-integration",
-        "master_branch": "main",
-        "description": "🚀 A modern, responsive frontend application to track and manage job applications. Built with React, Vite, and Tailwind CSS, it features a comprehensive dashboard, application status tracking, and authentication.",
-        "pusher_type": "user"
+        "action": "closed",
+        "number": 31,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/31",
+          "id": 3628194541,
+          "number": 31,
+          "head": {
+            "ref": "dependabot/npm_and_yarn/tailwindcss-4.2.4",
+            "sha": "e5322ab9f5bbc689213d4e0295cc6ae577c133c7",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "29ada3ae1eae315c66af7340672cf08de67050b2",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
       },
       "public": true,
-      "created_at": "2026-05-05T01:30:35Z"
+      "created_at": "2026-05-05T04:02:41Z"
     },
     {
-      "id": "11414883985",
-      "type": "PushEvent",
+      "id": "9126664722",
+      "type": "PullRequestEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2917,22 +2549,159 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1209539905,
-        "push_id": 33706225060,
-        "ref": "refs/heads/main",
-        "head": "aef81ce323a5f474c825804944ea540b9be8e57d",
-        "before": "44793125ceccfcc0e6c0f3244e658b726e56fc01"
+        "action": "closed",
+        "number": 30,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/30",
+          "id": 3628192030,
+          "number": 30,
+          "head": {
+            "ref": "dependabot/npm_and_yarn/vitejs/plugin-react-6.0.1",
+            "sha": "c26943b6f5d3747154bffdc20150349078d81ba5",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "29ada3ae1eae315c66af7340672cf08de67050b2",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
       },
       "public": true,
-      "created_at": "2026-05-05T01:00:56Z"
+      "created_at": "2026-05-05T04:01:59Z"
     },
     {
-      "id": "11414326807",
+      "id": "9126664721",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "action": "closed",
+        "number": 28,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/28",
+          "id": 3628191315,
+          "number": 28,
+          "head": {
+            "ref": "dependabot/npm_and_yarn/vite-8.0.10",
+            "sha": "af292d622fced6180fc46b391ab3f857162a9669",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "29ada3ae1eae315c66af7340672cf08de67050b2",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-05-05T04:01:46Z"
+    },
+    {
+      "id": "9126664291",
+      "type": "PullRequestEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "action": "closed",
+        "number": 26,
+        "pull_request": {
+          "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/pulls/26",
+          "id": 3627378616,
+          "number": 26,
+          "head": {
+            "ref": "dependabot/npm_and_yarn/npm_and_yarn-07458b7518",
+            "sha": "2ca021495b0aa0d22337931ffd18414a313eed4d",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          },
+          "base": {
+            "ref": "main",
+            "sha": "a8e0b5ec695b0d1b5e76957c612e519cea191b53",
+            "repo": {
+              "id": 1209541142,
+              "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker",
+              "name": "React-JobApplyTracker"
+            }
+          }
+        }
+      },
+      "public": true,
+      "created_at": "2026-05-04T23:51:20Z"
+    },
+    {
+      "id": "11464974445",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "ref": "copilot/fix-failing-github-actions-test",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/fix-failing-github-actions-test",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-05-06T01:09:58Z"
+    },
+    {
+      "id": "11464973734",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2949,16 +2718,42 @@
       },
       "payload": {
         "repository_id": 1209541142,
-        "push_id": 33705690261,
+        "push_id": 33756185463,
         "ref": "refs/heads/main",
-        "head": "29ada3ae1eae315c66af7340672cf08de67050b2",
-        "before": "a8e0b5ec695b0d1b5e76957c612e519cea191b53"
+        "head": "41d4864e693dcd2e4db663cb1d5caf930c32eaa9",
+        "before": "1dfaabffe03e334a63c84d3b84b682034a056e51"
       },
       "public": true,
-      "created_at": "2026-05-05T00:38:26Z"
+      "created_at": "2026-05-06T01:09:56Z"
     },
     {
-      "id": "11414321077",
+      "id": "11464510631",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 33755726189,
+        "ref": "refs/heads/main",
+        "head": "1dfaabffe03e334a63c84d3b84b682034a056e51",
+        "before": "cf7164e6b040e61cae827481e23e6f532f2a6d10"
+      },
+      "public": true,
+      "created_at": "2026-05-06T00:50:56Z"
+    },
+    {
+      "id": "11461714006",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2975,17 +2770,17 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 33705684653,
+        "push_id": 33752946163,
         "ref": "refs/heads/main",
-        "head": "44793125ceccfcc0e6c0f3244e658b726e56fc01",
-        "before": "1b33fdfc00300f25f31f46ae6909289977c82e29"
+        "head": "6a787903bdbcd3b978c582060206e98e2adbf5bb",
+        "before": "aef81ce323a5f474c825804944ea540b9be8e57d"
       },
       "public": true,
-      "created_at": "2026-05-05T00:38:12Z"
+      "created_at": "2026-05-05T22:56:35Z"
     },
     {
-      "id": "11414291482",
-      "type": "CreateEvent",
+      "id": "11461704027",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2995,28 +2790,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
       },
       "payload": {
-        "ref": "feat/gamification-contract",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/feat/gamification-contract",
-        "master_branch": "main",
-        "description": "⚙️ Robust REST API for the JobApplyTracker system. Built with Spring Boot and MariaDB, featuring JWT authentication, Flyway migrations, and comprehensive monitoring with Prometheus & Grafana.",
-        "pusher_type": "user"
+        "repository_id": 1209541142,
+        "push_id": 33752936352,
+        "ref": "refs/heads/main",
+        "head": "cf7164e6b040e61cae827481e23e6f532f2a6d10",
+        "before": "ce278d96b6c7fa5942a3feafbd7b49bff332e3be"
       },
       "public": true,
-      "created_at": "2026-05-05T00:37:02Z"
+      "created_at": "2026-05-05T22:56:13Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-05-07",
       "count": 0,
@@ -4749,12 +4538,12 @@
     },
     {
       "date": "2026-04-18",
-      "count": 30,
-      "level": 4
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-19",
-      "count": 9,
+      "count": 7,
       "level": 3
     },
     {
@@ -4829,14 +4618,19 @@
     },
     {
       "date": "2026-05-04",
-      "count": 9,
+      "count": 10,
       "level": 3
     },
     {
       "date": "2026-05-05",
-      "count": 12,
+      "count": 40,
       "level": 4
+    },
+    {
+      "date": "2026-05-06",
+      "count": 3,
+      "level": 2
     }
   ],
-  "generatedAt": "2026-05-05T01:34:20.009Z"
+  "generatedAt": "2026-05-06T01:34:31.871Z"
 }
