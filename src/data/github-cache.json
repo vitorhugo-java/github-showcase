@@ -103,14 +103,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/mind-weaver/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/mind-weaver/deployments",
       "created_at": "2026-04-13T11:59:25Z",
-      "updated_at": "2026-05-07T11:43:17Z",
-      "pushed_at": "2026-05-07T11:43:13Z",
+      "updated_at": "2026-05-08T17:54:13Z",
+      "pushed_at": "2026-05-08T17:54:08Z",
       "git_url": "git://github.com/vitorhugo-java/mind-weaver.git",
       "ssh_url": "git@github.com:vitorhugo-java/mind-weaver.git",
       "clone_url": "https://github.com/vitorhugo-java/mind-weaver.git",
       "svn_url": "https://github.com/vitorhugo-java/mind-weaver",
       "homepage": "https://vitorhugo-java.github.io/mind-weaver/",
-      "size": 498,
+      "size": 516,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -213,14 +213,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-05-07T02:58:28Z",
-      "pushed_at": "2026-05-07T02:58:25Z",
+      "updated_at": "2026-05-08T02:59:00Z",
+      "pushed_at": "2026-05-08T02:58:57Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 472,
+      "size": 481,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -1974,14 +1974,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringAPI_EspacoGeek/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringAPI_EspacoGeek/deployments",
       "created_at": "2024-04-30T05:00:59Z",
-      "updated_at": "2026-04-24T02:40:21Z",
-      "pushed_at": "2026-04-25T01:41:09Z",
+      "updated_at": "2026-05-08T13:00:49Z",
+      "pushed_at": "2026-05-08T13:00:43Z",
       "git_url": "git://github.com/vitorhugo-java/SpringAPI_EspacoGeek.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringAPI_EspacoGeek.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringAPI_EspacoGeek.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringAPI_EspacoGeek",
       "homepage": "https://vitorhugo-java.github.io/SpringAPI_EspacoGeek/",
-      "size": 3511,
+      "size": 3531,
       "stargazers_count": 1,
       "watchers_count": 1,
       "language": "Java",
@@ -2106,14 +2106,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/NextJS_EspacoGeek/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/NextJS_EspacoGeek/deployments",
       "created_at": "2024-12-04T03:53:50Z",
-      "updated_at": "2026-04-24T02:40:51Z",
-      "pushed_at": "2026-04-16T03:26:51Z",
+      "updated_at": "2026-05-08T12:29:40Z",
+      "pushed_at": "2026-05-08T12:29:36Z",
       "git_url": "git://github.com/vitorhugo-java/NextJS_EspacoGeek.git",
       "ssh_url": "git@github.com:vitorhugo-java/NextJS_EspacoGeek.git",
       "clone_url": "https://github.com/vitorhugo-java/NextJS_EspacoGeek.git",
       "svn_url": "https://github.com/vitorhugo-java/NextJS_EspacoGeek",
       "homepage": "https://espacogeek.com",
-      "size": 8551,
+      "size": 8555,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2237,14 +2237,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:28:08Z",
-      "updated_at": "2026-05-07T19:11:06Z",
-      "pushed_at": "2026-05-07T19:09:46Z",
+      "updated_at": "2026-05-09T01:26:50Z",
+      "pushed_at": "2026-05-09T01:26:46Z",
       "git_url": "git://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker",
       "homepage": "",
-      "size": 3635,
+      "size": 3599,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Java",
@@ -2258,7 +2258,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 2,
+      "open_issues_count": 1,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -2287,7 +2287,7 @@
       ],
       "visibility": "public",
       "forks": 0,
-      "open_issues": 2,
+      "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
       "permissions": {
@@ -2369,14 +2369,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-05-07T00:40:33Z",
-      "pushed_at": "2026-05-07T02:11:14Z",
+      "updated_at": "2026-05-08T03:27:09Z",
+      "pushed_at": "2026-05-08T03:28:33Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
       "homepage": "",
-      "size": 1169,
+      "size": 1262,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2428,32 +2428,7 @@
   ],
   "events": [
     {
-      "id": "11555880851",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "ref": "copilot/add-role-based-authorization",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/copilot/add-role-based-authorization",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-07T19:09:47Z"
-    },
-    {
-      "id": "11555879149",
+      "id": "11614147088",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2470,17 +2445,17 @@
       },
       "payload": {
         "repository_id": 1209539905,
-        "push_id": 33846979263,
+        "push_id": 33905204127,
         "ref": "refs/heads/main",
-        "head": "f83e3172683a7c389eaea614de06bf602ad6289d",
-        "before": "fddb7ef510d53a81ed5629d9f6f9482a3bdf94c6"
+        "head": "e8e58d2514e5282ae467fa15038cffce4f09c0d8",
+        "before": "28d829e5df54c288f843a8a081cff75e2b60bffc"
       },
       "public": true,
-      "created_at": "2026-05-07T19:09:44Z"
+      "created_at": "2026-05-09T01:26:47Z"
     },
     {
-      "id": "9205357289",
-      "type": "IssueCommentEvent",
+      "id": "11613774992",
+      "type": "PushEvent",
       "actor": {
         "id": 65777252,
         "login": "vitorhugo-java",
@@ -2495,194 +2470,17 @@
         "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "action": "created",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25/events",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/25",
-          "id": 4400893904,
-          "node_id": "PR_kwDOSBgdQc7ZQKmm",
-          "number": 25,
-          "title": "Implement JWT-backed RBAC with USER/BETA/ADMIN roles and default ROLE_USER enforcement",
-          "user": {
-            "login": "Copilot",
-            "id": 198982749,
-            "node_id": "BOT_kgDOC9w8XQ",
-            "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Copilot",
-            "html_url": "https://github.com/apps/copilot-swe-agent",
-            "followers_url": "https://api.github.com/users/Copilot/followers",
-            "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-            "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-            "organizations_url": "https://api.github.com/users/Copilot/orgs",
-            "repos_url": "https://api.github.com/users/Copilot/repos",
-            "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/Copilot/received_events",
-            "type": "Bot",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            {
-              "login": "Copilot",
-              "id": 198982749,
-              "node_id": "BOT_kgDOC9w8XQ",
-              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/Copilot",
-              "html_url": "https://github.com/apps/copilot-swe-agent",
-              "followers_url": "https://api.github.com/users/Copilot/followers",
-              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-              "organizations_url": "https://api.github.com/users/Copilot/orgs",
-              "repos_url": "https://api.github.com/users/Copilot/repos",
-              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/Copilot/received_events",
-              "type": "Bot",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": null,
-          "comments": 2,
-          "created_at": "2026-05-07T17:57:50Z",
-          "updated_at": "2026-05-07T19:09:46Z",
-          "closed_at": "2026-05-07T19:09:42Z",
-          "assignee": null,
-          "active_lock_reason": null,
-          "draft": false,
-          "pull_request": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/pulls/25",
-            "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/25",
-            "diff_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/25.diff",
-            "patch_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/25.patch",
-            "merged_at": "2026-05-07T19:09:42Z"
-          },
-          "body": "This PR introduces persistent role-based authorization for the API by modeling `USER`, `BETA`, and `ADMIN` roles, attaching multiple roles per user, and propagating roles through JWT. Security is updated so non-public endpoints now require `ROLE_USER` while auth entrypoints remain public.\n\n- **Domain + Persistence**\n  - Added `Role` entity and `RoleName` enum (`USER`, `BETA`, `ADMIN`).\n  - Added `User.roles` as `@ManyToMany` via `user_roles`.\n  - Added `RoleRepository` for role lookup by name.\n\n- **Database Migration + Seed Data**\n  - Added Flyway migration `V11__add_roles_and_user_authorization.sql`:\n    - Creates `roles` and `user_roles`.\n    - Seeds role catalog (`USER`, `BETA`, `ADMIN`).\n    - Backfills all existing users with `USER`.\n    - Does **not** insert sample users.\n\n- **JWT + Authentication Pipeline**\n  - `JwtService` now writes authorities to JWT `roles` claim and can extract authorities from token claims.\n  - `ApplicationConfig#userDetailsService` now maps persisted roles to `SimpleGrantedAuthority(\"ROLE_*\")`.\n  - `JwtAuthenticationFilter` applies authorities extracted from JWT claims to the authenticated principal.\n\n- **Authorization Rules**\n  - `SecurityConfig` enforces `ROLE_USER` for `/api/v1/**` endpoints after explicit public matchers.\n  - Public access remains only for auth POST endpoints (`register`, `login`, `refresh`, `forgot-password`, `reset-password`, `logout`) plus docs/actuator allowances already present.\n  - Added inline annotation in `SecurityConfig` and README documentation for the current `ROLE_USER`-protected endpoints (e.g., `/api/v1/auth/me`, `/api/v1/applications/**`, `/api/v1/gamification/**`, `/api/v1/dashboard/summary`, `/api/v1/account/test-email`).\n\n- **Registration Behavior**\n  - New users are assigned default `USER` role during registration (with fallback role creation for non-migration contexts).\n\n- **Tests + Docs**\n  - Added focused unit coverage for role-to-authority mapping and JWT role claims.\n  - Added integration coverage for role-gated access (`/auth/me` forbidden when token lacks `ROLE_USER`).\n  - Updated README and `docs/stories/role-based-authorization.md` to reflect protected endpoint annotations and migration behavior.\n\n```java\n// JWT now includes role claims and security requires ROLE_USER for /api/v1/**\nclaims.put(\"roles\", userDetails.getAuthorities().stream()\n    .map(GrantedAuthority::getAuthority)\n    .toList());\n\n.authorizeHttpRequests(auth -> auth\n    .requestMatchers(HttpMethod.POST, \"/api/v1/auth/register\", \"/api/v1/auth/login\", \"/api/v1/auth/refresh\",\n                     \"/api/v1/auth/forgot-password\", \"/api/v1/auth/reset-password\", \"/api/v1/auth/logout\").permitAll()\n    .requestMatchers(\"/api/v1/**\").hasRole(\"USER\")\n    .anyRequest().authenticated());\n```\n\n<!-- START COPILOT ORIGINAL PROMPT -->\n\n\n\n<details>\n\n<summary>Original prompt</summary>\n\nTitle: Implement Role-based Authorization (USER, BETA, ADMIN) using Spring Security\n\nContext\n--------\nThe SpringBoot-JobApplyTracker repo implements a REST API with JWT authentication, Flyway migrations, and MariaDB. We need to add Role-based authorization so users can have one or more Roles and endpoints are protected accordingly.\n\nGoals\n-----\n- Introduce a Role model with three roles: USER, BETA, ADMIN.\n- Allow users to have multiple roles (ManyToMany relationship).\n- Ensure JWT includes roles so authentication and authorization work across services.\n- Configure Spring Security so that, for now, all API endpoints require at least ROLE_USER.\n- Provide Flyway migrations to create roles and the join table.\n- Add tests, documentation, and update seeds/initial data so an ADMIN and a sample USER exist.\n\nScope (what the PR will change)\n-------------------------------\n- Domain model: create Role entity and Role enum (if applicable) and add roles to User entity (Set<Role> roles).\n- Persistence: RoleRepository, updates to UserRepository queries if needed.\n- Flyway SQL migrations to add roles table, user_roles join table, and seed roles.\n- Security: Update JwtTokenProvider/TokenService to serialize roles into JWT claims and parse them on validation.\n- Service layer: Update UserDetailsService implementation to map persisted roles to GrantedAuthority (SimpleGrantedAuthority with prefix ROLE_).\n- Security configuration: Update SecurityConfig to require ROLE_USER for secured endpoints, keep auth endpoints public.\n- Controller changes: No endpoint-level role restrictions beyond default for now; annotate examples where admin-only actions will go later.\n- Tests: Unit tests for UserDetailsService, JwtTokenProvider role handling; integration test to ensure endpoints require authentication and role.\n- Docs: Update README and docs/stories/ with story checklist and File List for the PR.\n\nDetailed Implementation Tasks\n-----------------------------\n1) Domain & Persistence\n   - Add Role enum OR entity (prefer entity to allow flexibility):\n     - package: com.example.jobapplytracker.auth.model (adjust base package to repo layout)\n     - class: Role (entity)\n       - id: Long\n       - name: String (USER, BETA, ADMIN) — unique\n     - add RoleRepository extends JpaRepository<Role, Long> with findByName(String name)\n\n   - Update User entity (e.g., User.java):\n     - Add field: @ManyToMany(fetch = FetchType.EAGER) @JoinTable(name = \"user_roles\", joinColumns = @JoinColumn(name = \"user_id\"), inverseJoinColumns = @JoinColumn(name = \"role_id\")) private Set<Role> roles = new HashSet<>();\n     - Ensure equals/hashCode avoid using collections to prevent issues.\n     - Update constructors and builder patterns to accept roles.\n\n   - Seed data and migrations:\n     - V2__create_roles_and_user_roles.sql (assuming V1 exists for users)\n       - Create table roles (id serial, name varchar unique)\n       - Create table user_roles (user_id bigint, role_id bigint, primary key (user_id, role_id))\n       - Insert roles ('USER', 'BETA', 'ADMIN')\n     - Optionally create a script to add an initial ADMIN user (password encoded) and assign ADMIN role for local/dev.\n\n2) Security / JWT\n   - JwtTokenProvider (or equivalent): when issuing tokens, include roles as claim (e.g., \"roles\": [\"USER\",\"ADMIN\"]).\n   - On token validation/parse, extract roles claims and create list of GrantedAuthority: roles.stream().map(r -> new SimpleGrantedAuthority(\"ROLE_\" + r)).collect(...)\n   - Ensure the Authentication returned by Jwt filter uses these authorities.\n\n3) UserDetailsService\n   - Update loadUserByUsername to map User.roles -> Collection<GrantedAuthority>\n   - Example mapping: user.getRoles().stream().map(r -> new SimpleGrantedAuthority(\"ROLE_\" + r.getName())).collect(Collectors.toSet())\n\n4) SecurityConfig\n   - In SecurityConfig (once where HttpSecurity is configured):\n     - Keep endpoints like /api/auth/** and /actuator/** public as currently needed.\n     - For all other endpoints, require authenticated() and hasRole('USER') (or authorizeHttpRequests().requestMatchers(...).hasRole(\"USER\")).\n     - Example:\n         http.authorizeHttpRequests()\n            .requestMatchers(\"/api/auth/**\", \"/swagger-ui/**\", \"/v3/api-docs/**\").permitAll()\n            .anyRequest().hasRole(\"USER\");\n   - Ensure roles are prefixed correctly when using hasAuthority vs hasRole. If roles are stored without prefix, use hasRole(\"USER\").\n\n5) Controllers\n   - For now, do not change general controllers. Add TODO comments and an example method annotated with @PreAuthorize(\"hasRole('ADMIN')\") to show how to restrict actions later.\n\n6) Flyway & Data\n   - Add migration SQL file(s) under src/main/resources/db/migration.\n   - Ensure SQL inserts roles and creates join tables. If the repo currently creates users with Flyway, add assignment for existing user(s).\n\n7) Tests\n   - Unit: JwtTokenProviderTest to assert roles is written and parsed.\n   - Unit: CustomUserDetailsServiceTest to assert authorities are ...\n\n</details>\n\n\n\n<!-- START COPILOT CODING AGENT SUFFIX -->\n\n*This pull request was created from Copilot chat.*\n>",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25/timeline",
-          "performed_via_github_app": null,
-          "state_reason": null
-        },
-        "comment": {
-          "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4400148452",
-          "html_url": "https://github.com/vitorhugo-java/SpringBoot-JobApplyTracker/pull/25#issuecomment-4400148452",
-          "issue_url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/25",
-          "id": 4400148452,
-          "node_id": "IC_kwDOSBgdQc8AAAABBkTv5A",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "created_at": "2026-05-07T18:54:31Z",
-          "updated_at": "2026-05-07T18:54:31Z",
-          "body": "@copilot annotate the actuals endpoints that role USER can call it, all users that already exists must has USER role and remove user inserts from migration.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker/issues/comments/4400148452/reactions",
-            "total_count": 0,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 0
-          },
-          "performed_via_github_app": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-07T18:54:31Z"
-    },
-    {
-      "id": "11536300505",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209410451,
-        "name": "vitorhugo-java/mind-weaver",
-        "url": "https://api.github.com/repos/vitorhugo-java/mind-weaver"
-      },
-      "payload": {
-        "repository_id": 1209410451,
-        "push_id": 33827456661,
+        "repository_id": 1209539905,
+        "push_id": 33904831838,
         "ref": "refs/heads/main",
-        "head": "8325c42892af6e005c805f6e9fb3b7d462f1719a",
-        "before": "e8cc0b2d321c85baf90ba8f363079f46c0a66a0f"
+        "head": "28d829e5df54c288f843a8a081cff75e2b60bffc",
+        "before": "4ff2bdad011b098233330e63a3e28c6f633578b0"
       },
       "public": true,
-      "created_at": "2026-05-07T11:43:14Z"
+      "created_at": "2026-05-09T01:07:08Z"
     },
     {
-      "id": "11536281202",
+      "id": "11613236241",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2693,22 +2491,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209410451,
-        "name": "vitorhugo-java/mind-weaver",
-        "url": "https://api.github.com/repos/vitorhugo-java/mind-weaver"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1209410451,
-        "push_id": 33827437348,
+        "repository_id": 1209539905,
+        "push_id": 33904293322,
         "ref": "refs/heads/main",
-        "head": "e8cc0b2d321c85baf90ba8f363079f46c0a66a0f",
-        "before": "397a385976a82e06b2e5a0280cbf7a3149483ac8"
+        "head": "4ff2bdad011b098233330e63a3e28c6f633578b0",
+        "before": "4a420de60e6e343cd9d10fe31acc4eb1dbe89e2f"
       },
       "public": true,
-      "created_at": "2026-05-07T11:42:44Z"
+      "created_at": "2026-05-09T00:39:59Z"
     },
     {
-      "id": "11536223966",
+      "id": "11612638042",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2719,22 +2517,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209410451,
-        "name": "vitorhugo-java/mind-weaver",
-        "url": "https://api.github.com/repos/vitorhugo-java/mind-weaver"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1209410451,
-        "push_id": 33827380378,
+        "repository_id": 1209539905,
+        "push_id": 33903695060,
         "ref": "refs/heads/main",
-        "head": "397a385976a82e06b2e5a0280cbf7a3149483ac8",
-        "before": "1f34aad7b03976a457e4f2e35b696ab1f565d5b5"
+        "head": "4a420de60e6e343cd9d10fe31acc4eb1dbe89e2f",
+        "before": "0a923980b3b323da02405806584481b68cc22364"
       },
       "public": true,
-      "created_at": "2026-05-07T11:41:17Z"
+      "created_at": "2026-05-09T00:09:19Z"
     },
     {
-      "id": "11536093462",
+      "id": "11610907025",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2745,22 +2543,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1209410451,
-        "name": "vitorhugo-java/mind-weaver",
-        "url": "https://api.github.com/repos/vitorhugo-java/mind-weaver"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1209410451,
-        "push_id": 33827250862,
+        "repository_id": 1209539905,
+        "push_id": 33901965388,
         "ref": "refs/heads/main",
-        "head": "1f34aad7b03976a457e4f2e35b696ab1f565d5b5",
-        "before": "1930838a39840d70f9404ce824fd4f2f3cfba03b"
+        "head": "0a923980b3b323da02405806584481b68cc22364",
+        "before": "d77176fe850cb7ecd8351dfac7ed28c72d9db866"
       },
       "public": true,
-      "created_at": "2026-05-07T11:38:02Z"
+      "created_at": "2026-05-08T22:51:29Z"
     },
     {
-      "id": "11517736283",
+      "id": "11610480042",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2771,216 +2569,22 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1158792557,
-        "name": "vitorhugo-java/the_universe_decides",
-        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1158792557,
-        "push_id": 33808889533,
-        "ref": "refs/heads/master",
-        "head": "a66dd09d742a5ed0ae31a268bce1b905ae3585cb",
-        "before": "46267229acf41276bc2a03366bff1ee39f82817a"
+        "repository_id": 1209539905,
+        "push_id": 33901538397,
+        "ref": "refs/heads/main",
+        "head": "d77176fe850cb7ecd8351dfac7ed28c72d9db866",
+        "before": "b35fb6ae42ec8d168eb30ff5b6763409d5b3a4b7"
       },
       "public": true,
-      "created_at": "2026-05-07T02:41:17Z"
+      "created_at": "2026-05-08T22:33:46Z"
     },
     {
-      "id": "9172044482",
-      "type": "IssuesEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1158792557,
-        "name": "vitorhugo-java/the_universe_decides",
-        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
-      },
-      "payload": {
-        "action": "closed",
-        "issue": {
-          "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1",
-          "repository_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides",
-          "labels_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1/labels{/name}",
-          "comments_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1/comments",
-          "events_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1/events",
-          "html_url": "https://github.com/vitorhugo-java/the_universe_decides/issues/1",
-          "id": 4391310598,
-          "node_id": "I_kwDORRHFbc8AAAABBb4VBg",
-          "number": 1,
-          "title": "Phase 1: Tidying Up the House (App Preparation)",
-          "user": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "labels": [],
-          "state": "closed",
-          "locked": false,
-          "assignees": [
-            {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            {
-              "login": "Copilot",
-              "id": 198982749,
-              "node_id": "BOT_kgDOC9w8XQ",
-              "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/Copilot",
-              "html_url": "https://github.com/apps/copilot-swe-agent",
-              "followers_url": "https://api.github.com/users/Copilot/followers",
-              "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
-              "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
-              "organizations_url": "https://api.github.com/users/Copilot/orgs",
-              "repos_url": "https://api.github.com/users/Copilot/repos",
-              "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/Copilot/received_events",
-              "type": "Bot",
-              "user_view_type": "public",
-              "site_admin": false
-            }
-          ],
-          "milestone": {
-            "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/milestones/1",
-            "html_url": "https://github.com/vitorhugo-java/the_universe_decides/milestone/1",
-            "labels_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/milestones/1/labels",
-            "id": 15815874,
-            "node_id": "MI_kwDORRHFbc4A8VTC",
-            "number": 1,
-            "title": "First Release 🚀",
-            "description": "",
-            "creator": {
-              "login": "vitorhugo-java",
-              "id": 65777252,
-              "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-              "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/vitorhugo-java",
-              "html_url": "https://github.com/vitorhugo-java",
-              "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-              "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-              "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-              "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-              "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-              "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-              "type": "User",
-              "user_view_type": "public",
-              "site_admin": false
-            },
-            "open_issues": 4,
-            "closed_issues": 1,
-            "state": "open",
-            "created_at": "2026-05-06T12:25:19Z",
-            "updated_at": "2026-05-07T02:40:53Z",
-            "due_on": null,
-            "closed_at": null
-          },
-          "comments": 0,
-          "created_at": "2026-05-06T12:28:20Z",
-          "updated_at": "2026-05-07T02:40:53Z",
-          "closed_at": "2026-05-07T02:40:53Z",
-          "assignee": {
-            "login": "vitorhugo-java",
-            "id": 65777252,
-            "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-            "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/vitorhugo-java",
-            "html_url": "https://github.com/vitorhugo-java",
-            "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-            "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-            "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-            "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-            "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-            "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "active_lock_reason": null,
-          "sub_issues_summary": {
-            "total": 0,
-            "completed": 0,
-            "percent_completed": 0
-          },
-          "issue_dependencies_summary": {
-            "blocked_by": 0,
-            "total_blocked_by": 0,
-            "blocking": 0,
-            "total_blocking": 0
-          },
-          "body": "Before talking to the app stores, the app needs to be fully polished (\"nos trinques\"). Here is a detailed breakdown of the app's core features, followed by the essential setup requirements:\n\n# 🚀 App Features Details:\n\n- The Animated Coin Flip: A 3D-simulated coin toss that relies on the Random.org API. It uses true atmospheric noise randomness to ensure the \"universe\" is actually making the choice. (Includes a local pseudo-random math fallback for offline moments).\n\n- RPG Dice Roller (Polyhedral Dice): A robust dice simulator where users can choose the number of dice and the number of sides (d4, d6, d8, d10, d12, d20, d100). Essential for tabletop RPG players or complex decision-making scenarios.\n\n- Custom List Picker: A dynamic list builder. Users can type in their options (e.g., places to eat, movies to watch, tasks to do), and the app will cast the burden of choice to the universe by randomly picking a single definitive winner from the pool.\n\n# ⚠️ Crucial Pre-Release Observations:\n\n1. Icons and Assets: You will need a good-looking icon. (Senior tip: use the App Icon Forge website or the flutter_launcher_icons package to generate all sizes automatically).\n\n2. Package Name: Ensure the package name (e.g., com.hugo.theuniversedecides) is absolutely unique.\n\n3. App Signature (Keystore): For Android, you must generate a signature key (Keystore). Guard this file and its password like it's the deed to your house! If you lose it, you will never be able to update the app again.",
-          "reactions": {
-            "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1/reactions",
-            "total_count": 1,
-            "+1": 0,
-            "-1": 0,
-            "laugh": 0,
-            "hooray": 0,
-            "confused": 0,
-            "heart": 0,
-            "rocket": 0,
-            "eyes": 1
-          },
-          "timeline_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/1/timeline",
-          "performed_via_github_app": null,
-          "state_reason": "completed",
-          "pinned_comment": null
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-07T02:40:55Z"
-    },
-    {
-      "id": "11517707621",
+      "id": "11606118965",
       "type": "PushEvent",
       "actor": {
         "id": 65777252,
@@ -2991,27 +2595,100 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
       },
       "repo": {
-        "id": 1158792557,
-        "name": "vitorhugo-java/the_universe_decides",
-        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
       },
       "payload": {
-        "repository_id": 1158792557,
-        "push_id": 33808860886,
-        "ref": "refs/heads/master",
-        "head": "46267229acf41276bc2a03366bff1ee39f82817a",
-        "before": "f10f1be295c1ac10c15736a72c48a314b8a2e102"
+        "repository_id": 1209539905,
+        "push_id": 33897179116,
+        "ref": "refs/heads/main",
+        "head": "b35fb6ae42ec8d168eb30ff5b6763409d5b3a4b7",
+        "before": "0e20c46ac5d5a8bd0628271cc9b28bb50532268f"
       },
       "public": true,
-      "created_at": "2026-05-07T02:40:11Z"
+      "created_at": "2026-05-08T20:08:37Z"
+    },
+    {
+      "id": "11605393342",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 33896454206,
+        "ref": "refs/heads/main",
+        "head": "0e20c46ac5d5a8bd0628271cc9b28bb50532268f",
+        "before": "256b6ef963e263910cb85962472bb73d8af463b5"
+      },
+      "public": true,
+      "created_at": "2026-05-08T19:47:49Z"
+    },
+    {
+      "id": "11604679889",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 33895741130,
+        "ref": "refs/heads/main",
+        "head": "256b6ef963e263910cb85962472bb73d8af463b5",
+        "before": "96f65cec0c0480f45edafcbe132f693c891af0cf"
+      },
+      "public": true,
+      "created_at": "2026-05-08T19:27:12Z"
+    },
+    {
+      "id": "11602845869",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209539905,
+        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209539905,
+        "push_id": 33893907739,
+        "ref": "refs/heads/main",
+        "head": "96f65cec0c0480f45edafcbe132f693c891af0cf",
+        "before": "6b12ba23cf61552cebdd51c8e30a5b7dd3120e0f"
+      },
+      "public": true,
+      "created_at": "2026-05-08T18:36:17Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-09",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-05-10",
       "count": 0,
@@ -4754,17 +4431,17 @@
     },
     {
       "date": "2026-04-23",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-24",
-      "count": 20,
-      "level": 4
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-25",
-      "count": 47,
+      "count": 28,
       "level": 4
     },
     {
@@ -4829,9 +4506,14 @@
     },
     {
       "date": "2026-05-08",
-      "count": 0,
-      "level": 0
+      "count": 36,
+      "level": 4
+    },
+    {
+      "date": "2026-05-09",
+      "count": 4,
+      "level": 2
     }
   ],
-  "generatedAt": "2026-05-08T01:35:19.871Z"
+  "generatedAt": "2026-05-09T01:34:28.605Z"
 }
