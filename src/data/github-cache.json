@@ -103,14 +103,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/portifolio/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
-      "updated_at": "2026-05-11T02:59:06Z",
-      "pushed_at": "2026-05-11T02:59:03Z",
+      "updated_at": "2026-05-12T02:58:42Z",
+      "pushed_at": "2026-05-12T02:58:38Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 490,
+      "size": 492,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -2369,14 +2369,14 @@
       "releases_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/releases{/id}",
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker/deployments",
       "created_at": "2026-04-13T14:29:30Z",
-      "updated_at": "2026-05-12T00:33:18Z",
-      "pushed_at": "2026-05-12T00:33:15Z",
+      "updated_at": "2026-05-12T19:28:59Z",
+      "pushed_at": "2026-05-12T19:28:57Z",
       "git_url": "git://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "ssh_url": "git@github.com:vitorhugo-java/React-JobApplyTracker.git",
       "clone_url": "https://github.com/vitorhugo-java/React-JobApplyTracker.git",
       "svn_url": "https://github.com/vitorhugo-java/React-JobApplyTracker",
       "homepage": "",
-      "size": 1063,
+      "size": 1069,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "JavaScript",
@@ -2427,6 +2427,108 @@
     }
   ],
   "events": [
+    {
+      "id": "11766056528",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "ref": "copilot/add-company-filter-to-applications-page",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/add-company-filter-to-applications-page",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-05-12T19:28:58Z"
+    },
+    {
+      "id": "11766055189",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 34057505097,
+        "ref": "refs/heads/main",
+        "head": "1ce466f0d7b8f577ead4cf4e92450e398e389d4a",
+        "before": "d7a0e336ece6fe2b0134bc9e81c15182449f026f"
+      },
+      "public": true,
+      "created_at": "2026-05-12T19:28:56Z"
+    },
+    {
+      "id": "11764243092",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "ref": "copilot/fix-archive-delete-application-test",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/fix-archive-delete-application-test",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-05-12T18:43:22Z"
+    },
+    {
+      "id": "11764242089",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1209541142,
+        "name": "vitorhugo-java/React-JobApplyTracker",
+        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
+      },
+      "payload": {
+        "repository_id": 1209541142,
+        "push_id": 34055655713,
+        "ref": "refs/heads/main",
+        "head": "d7a0e336ece6fe2b0134bc9e81c15182449f026f",
+        "before": "ccc757496951311f20a83f6eec1da2ff80de7839"
+      },
+      "public": true,
+      "created_at": "2026-05-12T18:43:20Z"
+    },
     {
       "id": "11722649561",
       "type": "PushEvent",
@@ -2581,118 +2683,9 @@
       },
       "public": true,
       "created_at": "2026-05-11T18:06:20Z"
-    },
-    {
-      "id": "11618583914",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 33909644590,
-        "ref": "refs/heads/main",
-        "head": "6343c77e6a468dd0abb1b1e76ab4db43d713dc91",
-        "before": "6ded566b724190048f8824324acf6ff82b74d307"
-      },
-      "public": true,
-      "created_at": "2026-05-09T05:23:37Z"
-    },
-    {
-      "id": "11618154985",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 33909215231,
-        "ref": "refs/heads/main",
-        "head": "6ded566b724190048f8824324acf6ff82b74d307",
-        "before": "0150a9b2e2ad0e75c68e1cc6eb8494393dccb905"
-      },
-      "public": true,
-      "created_at": "2026-05-09T05:00:05Z"
-    },
-    {
-      "id": "11617393508",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209539905,
-        "name": "vitorhugo-java/SpringBoot-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/SpringBoot-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209539905,
-        "push_id": 33908452939,
-        "ref": "refs/heads/main",
-        "head": "004db58d4aa44f4f7920110120929c13658e19a8",
-        "before": "4ce5824169f5c1719c0c22eb10fbbc12e34d1c70"
-      },
-      "public": true,
-      "created_at": "2026-05-09T04:16:45Z"
-    },
-    {
-      "id": "11617078673",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1209541142,
-        "name": "vitorhugo-java/React-JobApplyTracker",
-        "url": "https://api.github.com/repos/vitorhugo-java/React-JobApplyTracker"
-      },
-      "payload": {
-        "repository_id": 1209541142,
-        "push_id": 33908137965,
-        "ref": "refs/heads/main",
-        "head": "0150a9b2e2ad0e75c68e1cc6eb8494393dccb905",
-        "before": "cf0982f949570784bff7024bb97b6b106f2044f7"
-      },
-      "public": true,
-      "created_at": "2026-05-09T04:00:13Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-13",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-05-14",
       "count": 0,
@@ -4425,7 +4418,7 @@
     },
     {
       "date": "2026-04-25",
-      "count": 15,
+      "count": 11,
       "level": 4
     },
     {
@@ -4510,9 +4503,14 @@
     },
     {
       "date": "2026-05-12",
-      "count": 3,
-      "level": 2
+      "count": 7,
+      "level": 3
+    },
+    {
+      "date": "2026-05-13",
+      "count": 0,
+      "level": 0
     }
   ],
-  "generatedAt": "2026-05-12T01:34:33.629Z"
+  "generatedAt": "2026-05-13T01:36:18.203Z"
 }
