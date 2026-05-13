@@ -18,12 +18,12 @@ const hubItems = [
   },
 ];
 
-const DashboardHub = () => {
+const Hub = () => {
   return (
     <main className="min-h-screen bg-background">
       <section className="container mx-auto px-4 py-12 md:py-16">
         <header className="mb-8">
-          <h1 className="text-3xl font-bold tracking-tight">Dashboard Hub</h1>
+          <h1 className="text-3xl font-bold tracking-tight">Hub</h1>
           <p className="mt-2 text-muted-foreground">
             Central access to internal pages and external resources.
           </p>
@@ -39,4 +39,4 @@ const DashboardHub = () => {
   );
 };
 
-export default DashboardHub;
+export default Hub;
