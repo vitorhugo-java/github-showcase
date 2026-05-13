@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 Personal portfolio built with **Vite + React + TypeScript**, styled with **Tailwind CSS**, and using **shadcn/ui** components.
 
