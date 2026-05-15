@@ -36,6 +36,116 @@
   },
   "repos": [
     {
+      "id": 1158792557,
+      "node_id": "R_kgDORRHFbQ",
+      "name": "the_universe_decides",
+      "full_name": "vitorhugo-java/the_universe_decides",
+      "private": false,
+      "owner": {
+        "login": "vitorhugo-java",
+        "id": 65777252,
+        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "html_url": "https://github.com/vitorhugo-java",
+        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
+        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
+        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
+        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
+        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
+        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/vitorhugo-java/the_universe_decides",
+      "description": null,
+      "fork": false,
+      "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides",
+      "forks_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/forks",
+      "keys_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/teams",
+      "hooks_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/hooks",
+      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/events",
+      "assignees_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/tags",
+      "blobs_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/languages",
+      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/stargazers",
+      "contributors_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/contributors",
+      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/subscribers",
+      "subscription_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/subscription",
+      "commits_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/merges",
+      "archive_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/downloads",
+      "issues_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/labels{/name}",
+      "releases_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/deployments",
+      "created_at": "2026-02-15T23:09:02Z",
+      "updated_at": "2026-05-14T03:03:21Z",
+      "pushed_at": "2026-05-14T03:06:33Z",
+      "git_url": "git://github.com/vitorhugo-java/the_universe_decides.git",
+      "ssh_url": "git@github.com:vitorhugo-java/the_universe_decides.git",
+      "clone_url": "https://github.com/vitorhugo-java/the_universe_decides.git",
+      "svn_url": "https://github.com/vitorhugo-java/the_universe_decides",
+      "homepage": "",
+      "size": 466,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Dart",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": true,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 4,
+      "license": null,
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 4,
+      "watchers": 0,
+      "default_branch": "master",
+      "permissions": {
+        "admin": false,
+        "maintain": false,
+        "push": false,
+        "triage": false,
+        "pull": false
+      }
+    },
+    {
       "id": 1189545274,
       "node_id": "R_kgDORucFOg",
       "name": "portifolio",
@@ -104,13 +214,13 @@
       "deployments_url": "https://api.github.com/repos/vitorhugo-java/portifolio/deployments",
       "created_at": "2026-03-23T12:34:58Z",
       "updated_at": "2026-05-13T13:28:45Z",
-      "pushed_at": "2026-05-13T14:15:09Z",
+      "pushed_at": "2026-05-14T02:59:07Z",
       "git_url": "git://github.com/vitorhugo-java/portifolio.git",
       "ssh_url": "git@github.com:vitorhugo-java/portifolio.git",
       "clone_url": "https://github.com/vitorhugo-java/portifolio.git",
       "svn_url": "https://github.com/vitorhugo-java/portifolio",
       "homepage": "http://hugojava.dev/",
-      "size": 563,
+      "size": 565,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "TypeScript",
@@ -247,116 +357,6 @@
       "open_issues": 1,
       "watchers": 0,
       "default_branch": "main",
-      "permissions": {
-        "admin": false,
-        "maintain": false,
-        "push": false,
-        "triage": false,
-        "pull": false
-      }
-    },
-    {
-      "id": 1158792557,
-      "node_id": "R_kgDORRHFbQ",
-      "name": "the_universe_decides",
-      "full_name": "vitorhugo-java/the_universe_decides",
-      "private": false,
-      "owner": {
-        "login": "vitorhugo-java",
-        "id": 65777252,
-        "node_id": "MDQ6VXNlcjY1Nzc3MjUy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "html_url": "https://github.com/vitorhugo-java",
-        "followers_url": "https://api.github.com/users/vitorhugo-java/followers",
-        "following_url": "https://api.github.com/users/vitorhugo-java/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vitorhugo-java/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vitorhugo-java/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vitorhugo-java/subscriptions",
-        "organizations_url": "https://api.github.com/users/vitorhugo-java/orgs",
-        "repos_url": "https://api.github.com/users/vitorhugo-java/repos",
-        "events_url": "https://api.github.com/users/vitorhugo-java/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vitorhugo-java/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "html_url": "https://github.com/vitorhugo-java/the_universe_decides",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides",
-      "forks_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/forks",
-      "keys_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/keys{/key_id}",
-      "collaborators_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/collaborators{/collaborator}",
-      "teams_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/teams",
-      "hooks_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/hooks",
-      "issue_events_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/events{/number}",
-      "events_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/events",
-      "assignees_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/assignees{/user}",
-      "branches_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/branches{/branch}",
-      "tags_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/tags",
-      "blobs_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/blobs{/sha}",
-      "git_tags_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/tags{/sha}",
-      "git_refs_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/refs{/sha}",
-      "trees_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/trees{/sha}",
-      "statuses_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/statuses/{sha}",
-      "languages_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/languages",
-      "stargazers_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/stargazers",
-      "contributors_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/contributors",
-      "subscribers_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/subscribers",
-      "subscription_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/subscription",
-      "commits_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/commits{/sha}",
-      "git_commits_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/git/commits{/sha}",
-      "comments_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/comments{/number}",
-      "issue_comment_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues/comments{/number}",
-      "contents_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/contents/{+path}",
-      "compare_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/compare/{base}...{head}",
-      "merges_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/merges",
-      "archive_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/{archive_format}{/ref}",
-      "downloads_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/downloads",
-      "issues_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/issues{/number}",
-      "pulls_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/pulls{/number}",
-      "milestones_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/milestones{/number}",
-      "notifications_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/notifications{?since,all,participating}",
-      "labels_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/labels{/name}",
-      "releases_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/releases{/id}",
-      "deployments_url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides/deployments",
-      "created_at": "2026-02-15T23:09:02Z",
-      "updated_at": "2026-05-07T02:41:20Z",
-      "pushed_at": "2026-05-07T02:44:27Z",
-      "git_url": "git://github.com/vitorhugo-java/the_universe_decides.git",
-      "ssh_url": "git@github.com:vitorhugo-java/the_universe_decides.git",
-      "clone_url": "https://github.com/vitorhugo-java/the_universe_decides.git",
-      "svn_url": "https://github.com/vitorhugo-java/the_universe_decides",
-      "homepage": "",
-      "size": 477,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Dart",
-      "has_issues": true,
-      "has_projects": true,
-      "has_downloads": true,
-      "has_wiki": true,
-      "has_pages": false,
-      "has_discussions": false,
-      "forks_count": 0,
-      "mirror_url": null,
-      "archived": false,
-      "disabled": false,
-      "open_issues_count": 4,
-      "license": null,
-      "allow_forking": true,
-      "is_template": false,
-      "web_commit_signoff_required": false,
-      "has_pull_requests": true,
-      "pull_request_creation_policy": "all",
-      "topics": [],
-      "visibility": "public",
-      "forks": 0,
-      "open_issues": 4,
-      "watchers": 0,
-      "default_branch": "master",
       "permissions": {
         "admin": false,
         "maintain": false,
@@ -2428,6 +2428,134 @@
   ],
   "events": [
     {
+      "id": "11833686568",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1158792557,
+        "name": "vitorhugo-java/the_universe_decides",
+        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+      },
+      "payload": {
+        "repository_id": 1158792557,
+        "push_id": 34124349497,
+        "ref": "refs/heads/master",
+        "head": "2b861e00b196f2e498e2dabf07c446b5054bf987",
+        "before": "158921da90f56f62d5eeb8c5163cf468e3a51bf4"
+      },
+      "public": true,
+      "created_at": "2026-05-14T03:03:18Z"
+    },
+    {
+      "id": "11833667825",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1158792557,
+        "name": "vitorhugo-java/the_universe_decides",
+        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+      },
+      "payload": {
+        "ref": "copilot/add-tarot-card-draw-module",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/add-tarot-card-draw-module",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-05-14T03:02:39Z"
+    },
+    {
+      "id": "11833665233",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1158792557,
+        "name": "vitorhugo-java/the_universe_decides",
+        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+      },
+      "payload": {
+        "repository_id": 1158792557,
+        "push_id": 34124328309,
+        "ref": "refs/heads/master",
+        "head": "158921da90f56f62d5eeb8c5163cf468e3a51bf4",
+        "before": "7e58c5db7078185d9ecda80c09ab4cfa4b3d7d1f"
+      },
+      "public": true,
+      "created_at": "2026-05-14T03:02:34Z"
+    },
+    {
+      "id": "11833637234",
+      "type": "DeleteEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1158792557,
+        "name": "vitorhugo-java/the_universe_decides",
+        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+      },
+      "payload": {
+        "ref": "copilot/add-card-draw-module",
+        "ref_type": "branch",
+        "full_ref": "refs/heads/copilot/add-card-draw-module",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2026-05-14T03:01:37Z"
+    },
+    {
+      "id": "11833632851",
+      "type": "PushEvent",
+      "actor": {
+        "id": 65777252,
+        "login": "vitorhugo-java",
+        "display_login": "vitorhugo-java",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/vitorhugo-java",
+        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
+      },
+      "repo": {
+        "id": 1158792557,
+        "name": "vitorhugo-java/the_universe_decides",
+        "url": "https://api.github.com/repos/vitorhugo-java/the_universe_decides"
+      },
+      "payload": {
+        "repository_id": 1158792557,
+        "push_id": 34124295924,
+        "ref": "refs/heads/master",
+        "head": "7e58c5db7078185d9ecda80c09ab4cfa4b3d7d1f",
+        "before": "a66dd09d742a5ed0ae31a268bce1b905ae3585cb"
+      },
+      "public": true,
+      "created_at": "2026-05-14T03:01:29Z"
+    },
+    {
       "id": "11812116206",
       "type": "DeleteEvent",
       "actor": {
@@ -2574,165 +2702,9 @@
       },
       "public": true,
       "created_at": "2026-05-13T13:21:22Z"
-    },
-    {
-      "id": "11802908951",
-      "type": "PushEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "repository_id": 1189545274,
-        "push_id": 34094314057,
-        "ref": "refs/heads/prod",
-        "head": "7b09372da19b14a58b83446965255ffee35981ef",
-        "before": "90e97d48ce29b2b481d33447f5f14e40ce6c2f5c"
-      },
-      "public": true,
-      "created_at": "2026-05-13T13:21:24Z"
-    },
-    {
-      "id": "9414422271",
-      "type": "PullRequestEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "action": "opened",
-        "number": 23,
-        "pull_request": {
-          "url": "https://api.github.com/repos/vitorhugo-java/portifolio/pulls/23",
-          "id": 3676436665,
-          "number": 23,
-          "head": {
-            "ref": "main",
-            "sha": "615b4e39ff739a977dd3abb54a6a3681bc4907ae",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          },
-          "base": {
-            "ref": "prod",
-            "sha": "90e97d48ce29b2b481d33447f5f14e40ce6c2f5c",
-            "repo": {
-              "id": 1189545274,
-              "url": "https://api.github.com/repos/vitorhugo-java/portifolio",
-              "name": "portifolio"
-            }
-          }
-        }
-      },
-      "public": true,
-      "created_at": "2026-05-13T13:21:10Z"
-    },
-    {
-      "id": "11802848405",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "ref": "prod",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/prod",
-        "master_branch": "main",
-        "description": null,
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-13T13:20:05Z"
-    },
-    {
-      "id": "11802836064",
-      "type": "CreateEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "ref": "revert-22-prod",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/revert-22-prod",
-        "master_branch": "main",
-        "description": null,
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-13T13:19:49Z"
-    },
-    {
-      "id": "11802825703",
-      "type": "DeleteEvent",
-      "actor": {
-        "id": 65777252,
-        "login": "vitorhugo-java",
-        "display_login": "vitorhugo-java",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/vitorhugo-java",
-        "avatar_url": "https://avatars.githubusercontent.com/u/65777252?"
-      },
-      "repo": {
-        "id": 1189545274,
-        "name": "vitorhugo-java/portifolio",
-        "url": "https://api.github.com/repos/vitorhugo-java/portifolio"
-      },
-      "payload": {
-        "ref": "prod",
-        "ref_type": "branch",
-        "full_ref": "refs/heads/prod",
-        "pusher_type": "user"
-      },
-      "public": true,
-      "created_at": "2026-05-13T13:19:35Z"
     }
   ],
   "contributions": [
-    {
-      "date": "2025-05-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-05-16",
       "count": 0,
@@ -4465,8 +4437,8 @@
     },
     {
       "date": "2026-04-27",
-      "count": 6,
-      "level": 3
+      "count": 3,
+      "level": 2
     },
     {
       "date": "2026-04-28",
@@ -4550,9 +4522,14 @@
     },
     {
       "date": "2026-05-14",
+      "count": 5,
+      "level": 2
+    },
+    {
+      "date": "2026-05-15",
       "count": 0,
       "level": 0
     }
   ],
-  "generatedAt": "2026-05-14T01:38:08.923Z"
+  "generatedAt": "2026-05-15T01:36:40.392Z"
 }
